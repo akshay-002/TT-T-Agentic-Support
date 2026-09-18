@@ -1,0 +1,602 @@
+[
+  {
+    "usage_id": "USAGE_01_1",
+    "line_id": "LINE_2001",
+    "period_start": "2026-07-01",
+    "period_end": "2026-07-15",
+    "data_mb": 855,
+    "hotspot_mb": 96,
+    "voice_minutes": 125,
+    "sms_count": 31
+  },
+  {
+    "usage_id": "USAGE_01_2",
+    "line_id": "LINE_2001",
+    "period_start": "2026-07-16",
+    "period_end": "2026-07-31",
+    "data_mb": 2038,
+    "hotspot_mb": 126,
+    "voice_minutes": 132,
+    "sms_count": 37
+  },
+  {
+    "usage_id": "USAGE_01_3",
+    "line_id": "LINE_2001",
+    "period_start": "2026-08-01",
+    "period_end": "2026-08-15",
+    "data_mb": 2148,
+    "hotspot_mb": 259,
+    "voice_minutes": 51,
+    "sms_count": 34
+  },
+  {
+    "usage_id": "USAGE_01_4",
+    "line_id": "LINE_2001",
+    "period_start": "2026-08-16",
+    "period_end": "2026-08-31",
+    "data_mb": 738,
+    "hotspot_mb": 179,
+    "voice_minutes": 153,
+    "sms_count": 41
+  },
+  {
+    "usage_id": "USAGE_02_1",
+    "line_id": "LINE_2002",
+    "period_start": "2026-07-01",
+    "period_end": "2026-07-15",
+    "data_mb": 1563,
+    "hotspot_mb": 191,
+    "voice_minutes": 23,
+    "sms_count": 35
+  },
+  {
+    "usage_id": "USAGE_02_2",
+    "line_id": "LINE_2002",
+    "period_start": "2026-07-16",
+    "period_end": "2026-07-31",
+    "data_mb": 1162,
+    "hotspot_mb": 28,
+    "voice_minutes": 50,
+    "sms_count": 9
+  },
+  {
+    "usage_id": "USAGE_02_3",
+    "line_id": "LINE_2002",
+    "period_start": "2026-08-01",
+    "period_end": "2026-08-15",
+    "data_mb": 522,
+    "hotspot_mb": 3,
+    "voice_minutes": 65,
+    "sms_count": 18
+  },
+  {
+    "usage_id": "USAGE_02_4",
+    "line_id": "LINE_2002",
+    "period_start": "2026-08-16",
+    "period_end": "2026-08-31",
+    "data_mb": 1211,
+    "hotspot_mb": 192,
+    "voice_minutes": 49,
+    "sms_count": 8
+  },
+  {
+    "usage_id": "USAGE_03_1",
+    "line_id": "LINE_2003",
+    "period_start": "2026-07-01",
+    "period_end": "2026-07-15",
+    "data_mb": 1611,
+    "hotspot_mb": 132,
+    "voice_minutes": 172,
+    "sms_count": 16
+  },
+  {
+    "usage_id": "USAGE_03_2",
+    "line_id": "LINE_2003",
+    "period_start": "2026-07-16",
+    "period_end": "2026-07-31",
+    "data_mb": 1541,
+    "hotspot_mb": 51,
+    "voice_minutes": 74,
+    "sms_count": 48
+  },
+  {
+    "usage_id": "USAGE_03_3",
+    "line_id": "LINE_2003",
+    "period_start": "2026-08-01",
+    "period_end": "2026-08-15",
+    "data_mb": 1904,
+    "hotspot_mb": 82,
+    "voice_minutes": 76,
+    "sms_count": 46
+  },
+  {
+    "usage_id": "USAGE_03_4",
+    "line_id": "LINE_2003",
+    "period_start": "2026-08-16",
+    "period_end": "2026-08-31",
+    "data_mb": 494,
+    "hotspot_mb": 273,
+    "voice_minutes": 145,
+    "sms_count": 40
+  },
+  {
+    "usage_id": "USAGE_04_1",
+    "line_id": "LINE_2004",
+    "period_start": "2026-07-01",
+    "period_end": "2026-07-15",
+    "data_mb": 599,
+    "hotspot_mb": 148,
+    "voice_minutes": 132,
+    "sms_count": 56
+  },
+  {
+    "usage_id": "USAGE_04_2",
+    "line_id": "LINE_2004",
+    "period_start": "2026-07-16",
+    "period_end": "2026-07-31",
+    "data_mb": 762,
+    "hotspot_mb": 115,
+    "voice_minutes": 75,
+    "sms_count": 45
+  },
+  {
+    "usage_id": "USAGE_04_3",
+    "line_id": "LINE_2004",
+    "period_start": "2026-08-01",
+    "period_end": "2026-08-15",
+    "data_mb": 408,
+    "hotspot_mb": 274,
+    "voice_minutes": 89,
+    "sms_count": 72
+  },
+  {
+    "usage_id": "USAGE_04_4",
+    "line_id": "LINE_2004",
+    "period_start": "2026-08-16",
+    "period_end": "2026-08-31",
+    "data_mb": 1112,
+    "hotspot_mb": 264,
+    "voice_minutes": 48,
+    "sms_count": 52
+  },
+  {
+    "usage_id": "USAGE_05_1",
+    "line_id": "LINE_2005",
+    "period_start": "2026-07-01",
+    "period_end": "2026-07-15",
+    "data_mb": 1135,
+    "hotspot_mb": 47,
+    "voice_minutes": 42,
+    "sms_count": 5
+  },
+  {
+    "usage_id": "USAGE_05_2",
+    "line_id": "LINE_2005",
+    "period_start": "2026-07-16",
+    "period_end": "2026-07-31",
+    "data_mb": 1311,
+    "hotspot_mb": 33,
+    "voice_minutes": 147,
+    "sms_count": 43
+  },
+  {
+    "usage_id": "USAGE_05_3",
+    "line_id": "LINE_2005",
+    "period_start": "2026-08-01",
+    "period_end": "2026-08-15",
+    "data_mb": 1729,
+    "hotspot_mb": 296,
+    "voice_minutes": 66,
+    "sms_count": 99
+  },
+  {
+    "usage_id": "USAGE_05_4",
+    "line_id": "LINE_2005",
+    "period_start": "2026-08-16",
+    "period_end": "2026-08-31",
+    "data_mb": 722,
+    "hotspot_mb": 60,
+    "voice_minutes": 60,
+    "sms_count": 72
+  },
+  {
+    "usage_id": "USAGE_06_1",
+    "line_id": "LINE_2006",
+    "period_start": "2026-07-01",
+    "period_end": "2026-07-15",
+    "data_mb": 1096,
+    "hotspot_mb": 281,
+    "voice_minutes": 28,
+    "sms_count": 95
+  },
+  {
+    "usage_id": "USAGE_06_2",
+    "line_id": "LINE_2006",
+    "period_start": "2026-07-16",
+    "period_end": "2026-07-31",
+    "data_mb": 449,
+    "hotspot_mb": 53,
+    "voice_minutes": 136,
+    "sms_count": 22
+  },
+  {
+    "usage_id": "USAGE_06_3",
+    "line_id": "LINE_2006",
+    "period_start": "2026-08-01",
+    "period_end": "2026-08-15",
+    "data_mb": 1692,
+    "hotspot_mb": 105,
+    "voice_minutes": 100,
+    "sms_count": 71
+  },
+  {
+    "usage_id": "USAGE_06_4",
+    "line_id": "LINE_2006",
+    "period_start": "2026-08-16",
+    "period_end": "2026-08-31",
+    "data_mb": 1057,
+    "hotspot_mb": 81,
+    "voice_minutes": 40,
+    "sms_count": 63
+  },
+  {
+    "usage_id": "USAGE_07_1",
+    "line_id": "LINE_2007",
+    "period_start": "2026-07-01",
+    "period_end": "2026-07-15",
+    "data_mb": 986,
+    "hotspot_mb": 178,
+    "voice_minutes": 171,
+    "sms_count": 92
+  },
+  {
+    "usage_id": "USAGE_07_2",
+    "line_id": "LINE_2007",
+    "period_start": "2026-07-16",
+    "period_end": "2026-07-31",
+    "data_mb": 956,
+    "hotspot_mb": 24,
+    "voice_minutes": 110,
+    "sms_count": 87
+  },
+  {
+    "usage_id": "USAGE_07_3",
+    "line_id": "LINE_2007",
+    "period_start": "2026-08-01",
+    "period_end": "2026-08-15",
+    "data_mb": 2135,
+    "hotspot_mb": 137,
+    "voice_minutes": 129,
+    "sms_count": 94
+  },
+  {
+    "usage_id": "USAGE_07_4",
+    "line_id": "LINE_2007",
+    "period_start": "2026-08-16",
+    "period_end": "2026-08-31",
+    "data_mb": 428,
+    "hotspot_mb": 252,
+    "voice_minutes": 113,
+    "sms_count": 78
+  },
+  {
+    "usage_id": "USAGE_08_1",
+    "line_id": "LINE_2008",
+    "period_start": "2026-07-01",
+    "period_end": "2026-07-15",
+    "data_mb": 575,
+    "hotspot_mb": 64,
+    "voice_minutes": 109,
+    "sms_count": 50
+  },
+  {
+    "usage_id": "USAGE_08_2",
+    "line_id": "LINE_2008",
+    "period_start": "2026-07-16",
+    "period_end": "2026-07-31",
+    "data_mb": 941,
+    "hotspot_mb": 47,
+    "voice_minutes": 84,
+    "sms_count": 87
+  },
+  {
+    "usage_id": "USAGE_08_3",
+    "line_id": "LINE_2008",
+    "period_start": "2026-08-01",
+    "period_end": "2026-08-15",
+    "data_mb": 1270,
+    "hotspot_mb": 255,
+    "voice_minutes": 21,
+    "sms_count": 80
+  },
+  {
+    "usage_id": "USAGE_08_4",
+    "line_id": "LINE_2008",
+    "period_start": "2026-08-16",
+    "period_end": "2026-08-31",
+    "data_mb": 788,
+    "hotspot_mb": 134,
+    "voice_minutes": 159,
+    "sms_count": 15
+  },
+  {
+    "usage_id": "USAGE_09_1",
+    "line_id": "LINE_2009",
+    "period_start": "2026-07-01",
+    "period_end": "2026-07-15",
+    "data_mb": 403,
+    "hotspot_mb": 196,
+    "voice_minutes": 26,
+    "sms_count": 26
+  },
+  {
+    "usage_id": "USAGE_09_2",
+    "line_id": "LINE_2009",
+    "period_start": "2026-07-16",
+    "period_end": "2026-07-31",
+    "data_mb": 1091,
+    "hotspot_mb": 52,
+    "voice_minutes": 95,
+    "sms_count": 86
+  },
+  {
+    "usage_id": "USAGE_09_3",
+    "line_id": "LINE_2009",
+    "period_start": "2026-08-01",
+    "period_end": "2026-08-15",
+    "data_mb": 1845,
+    "hotspot_mb": 267,
+    "voice_minutes": 177,
+    "sms_count": 9
+  },
+  {
+    "usage_id": "USAGE_09_4",
+    "line_id": "LINE_2009",
+    "period_start": "2026-08-16",
+    "period_end": "2026-08-31",
+    "data_mb": 1828,
+    "hotspot_mb": 284,
+    "voice_minutes": 158,
+    "sms_count": 13
+  },
+  {
+    "usage_id": "USAGE_10_1",
+    "line_id": "LINE_2010",
+    "period_start": "2026-07-01",
+    "period_end": "2026-07-15",
+    "data_mb": 1829,
+    "hotspot_mb": 31,
+    "voice_minutes": 24,
+    "sms_count": 46
+  },
+  {
+    "usage_id": "USAGE_10_2",
+    "line_id": "LINE_2010",
+    "period_start": "2026-07-16",
+    "period_end": "2026-07-31",
+    "data_mb": 473,
+    "hotspot_mb": 196,
+    "voice_minutes": 79,
+    "sms_count": 67
+  },
+  {
+    "usage_id": "USAGE_10_3",
+    "line_id": "LINE_2010",
+    "period_start": "2026-08-01",
+    "period_end": "2026-08-15",
+    "data_mb": 1528,
+    "hotspot_mb": 155,
+    "voice_minutes": 94,
+    "sms_count": 79
+  },
+  {
+    "usage_id": "USAGE_10_4",
+    "line_id": "LINE_2010",
+    "period_start": "2026-08-16",
+    "period_end": "2026-08-31",
+    "data_mb": 883,
+    "hotspot_mb": 280,
+    "voice_minutes": 143,
+    "sms_count": 56
+  },
+  {
+    "usage_id": "USAGE_11_1",
+    "line_id": "LINE_2011",
+    "period_start": "2026-07-01",
+    "period_end": "2026-07-15",
+    "data_mb": 1654,
+    "hotspot_mb": 254,
+    "voice_minutes": 129,
+    "sms_count": 22
+  },
+  {
+    "usage_id": "USAGE_11_2",
+    "line_id": "LINE_2011",
+    "period_start": "2026-07-16",
+    "period_end": "2026-07-31",
+    "data_mb": 1909,
+    "hotspot_mb": 190,
+    "voice_minutes": 58,
+    "sms_count": 96
+  },
+  {
+    "usage_id": "USAGE_11_3",
+    "line_id": "LINE_2011",
+    "period_start": "2026-08-01",
+    "period_end": "2026-08-15",
+    "data_mb": 764,
+    "hotspot_mb": 280,
+    "voice_minutes": 131,
+    "sms_count": 68
+  },
+  {
+    "usage_id": "USAGE_11_4",
+    "line_id": "LINE_2011",
+    "period_start": "2026-08-16",
+    "period_end": "2026-08-31",
+    "data_mb": 1002,
+    "hotspot_mb": 181,
+    "voice_minutes": 64,
+    "sms_count": 23
+  },
+  {
+    "usage_id": "USAGE_12_1",
+    "line_id": "LINE_2012",
+    "period_start": "2026-07-01",
+    "period_end": "2026-07-15",
+    "data_mb": 1272,
+    "hotspot_mb": 84,
+    "voice_minutes": 168,
+    "sms_count": 77
+  },
+  {
+    "usage_id": "USAGE_12_2",
+    "line_id": "LINE_2012",
+    "period_start": "2026-07-16",
+    "period_end": "2026-07-31",
+    "data_mb": 1881,
+    "hotspot_mb": 57,
+    "voice_minutes": 141,
+    "sms_count": 87
+  },
+  {
+    "usage_id": "USAGE_12_3",
+    "line_id": "LINE_2012",
+    "period_start": "2026-08-01",
+    "period_end": "2026-08-15",
+    "data_mb": 560,
+    "hotspot_mb": 34,
+    "voice_minutes": 160,
+    "sms_count": 69
+  },
+  {
+    "usage_id": "USAGE_12_4",
+    "line_id": "LINE_2012",
+    "period_start": "2026-08-16",
+    "period_end": "2026-08-31",
+    "data_mb": 1252,
+    "hotspot_mb": 132,
+    "voice_minutes": 107,
+    "sms_count": 94
+  },
+  {
+    "usage_id": "USAGE_13_1",
+    "line_id": "LINE_2013",
+    "period_start": "2026-07-01",
+    "period_end": "2026-07-15",
+    "data_mb": 2109,
+    "hotspot_mb": 217,
+    "voice_minutes": 165,
+    "sms_count": 43
+  },
+  {
+    "usage_id": "USAGE_13_2",
+    "line_id": "LINE_2013",
+    "period_start": "2026-07-16",
+    "period_end": "2026-07-31",
+    "data_mb": 512,
+    "hotspot_mb": 254,
+    "voice_minutes": 142,
+    "sms_count": 42
+  },
+  {
+    "usage_id": "USAGE_13_3",
+    "line_id": "LINE_2013",
+    "period_start": "2026-08-01",
+    "period_end": "2026-08-15",
+    "data_mb": 1308,
+    "hotspot_mb": 237,
+    "voice_minutes": 100,
+    "sms_count": 66
+  },
+  {
+    "usage_id": "USAGE_13_4",
+    "line_id": "LINE_2013",
+    "period_start": "2026-08-16",
+    "period_end": "2026-08-31",
+    "data_mb": 1736,
+    "hotspot_mb": 284,
+    "voice_minutes": 67,
+    "sms_count": 26
+  },
+  {
+    "usage_id": "USAGE_14_1",
+    "line_id": "LINE_2014",
+    "period_start": "2026-07-01",
+    "period_end": "2026-07-15",
+    "data_mb": 1099,
+    "hotspot_mb": 187,
+    "voice_minutes": 135,
+    "sms_count": 80
+  },
+  {
+    "usage_id": "USAGE_14_2",
+    "line_id": "LINE_2014",
+    "period_start": "2026-07-16",
+    "period_end": "2026-07-31",
+    "data_mb": 1965,
+    "hotspot_mb": 176,
+    "voice_minutes": 107,
+    "sms_count": 14
+  },
+  {
+    "usage_id": "USAGE_14_3",
+    "line_id": "LINE_2014",
+    "period_start": "2026-08-01",
+    "period_end": "2026-08-15",
+    "data_mb": 1763,
+    "hotspot_mb": 258,
+    "voice_minutes": 63,
+    "sms_count": 91
+  },
+  {
+    "usage_id": "USAGE_14_4",
+    "line_id": "LINE_2014",
+    "period_start": "2026-08-16",
+    "period_end": "2026-08-31",
+    "data_mb": 533,
+    "hotspot_mb": 113,
+    "voice_minutes": 131,
+    "sms_count": 86
+  },
+  {
+    "usage_id": "USAGE_15_1",
+    "line_id": "LINE_2015",
+    "period_start": "2026-07-01",
+    "period_end": "2026-07-15",
+    "data_mb": 2055,
+    "hotspot_mb": 137,
+    "voice_minutes": 119,
+    "sms_count": 29
+  },
+  {
+    "usage_id": "USAGE_15_2",
+    "line_id": "LINE_2015",
+    "period_start": "2026-07-16",
+    "period_end": "2026-07-31",
+    "data_mb": 1692,
+    "hotspot_mb": 226,
+    "voice_minutes": 122,
+    "sms_count": 30
+  },
+  {
+    "usage_id": "USAGE_15_3",
+    "line_id": "LINE_2015",
+    "period_start": "2026-08-01",
+    "period_end": "2026-08-15",
+    "data_mb": 853,
+    "hotspot_mb": 148,
+    "voice_minutes": 28,
+    "sms_count": 53
+  },
+  {
+    "usage_id": "USAGE_15_4",
+    "line_id": "LINE_2015",
+    "period_start": "2026-08-16",
+    "period_end": "2026-08-31",
+    "data_mb": 757,
+    "hotspot_mb": 55,
+    "voice_minutes": 133,
+    "sms_count": 89
+  }
+]

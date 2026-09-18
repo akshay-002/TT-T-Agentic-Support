@@ -1,0 +1,35 @@
+[
+  {
+    "port_request_id": "PORT_001",
+    "request_id": "CONN_001",
+    "line_id": "LINE_2001",
+    "old_carrier": "Fictional Carrier 1",
+    "requested_number_masked": "***-***-1001",
+    "status": "completed",
+    "requested_at": "2026-06-27T09:00:00Z",
+    "completed_at": "2026-07-01T00:00:00Z",
+    "status_detail": "Transfer completed in the simulation; no transfer PIN is stored."
+  },
+  {
+    "port_request_id": "PORT_002",
+    "request_id": "CONN_002",
+    "line_id": "LINE_2002",
+    "old_carrier": "Fictional Carrier 2",
+    "requested_number_masked": "***-***-1002",
+    "status": "completed",
+    "requested_at": "2026-06-27T09:00:00Z",
+    "completed_at": "2026-07-01T00:00:00Z",
+    "status_detail": "Transfer completed in the simulation; no transfer PIN is stored."
+  },
+  {
+    "port_request_id": "PORT_003",
+    "request_id": "CONN_003",
+    "line_id": "LINE_2003",
+    "old_carrier": "Fictional Carrier 3",
+    "requested_number_masked": "***-***-1003",
+    "status": "completed",
+    "requested_at": "2026-06-27T09:00:00Z",
+    "completed_at": "2026-07-01T00:00:00Z",
+    "status_detail": "Transfer completed in the simulation; no transfer PIN is stored."
+  }
+]

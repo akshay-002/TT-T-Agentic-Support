@@ -1,0 +1,92 @@
+[
+  {
+    "account_id": "ACC_1001",
+    "user_id": "USER_1001",
+    "status": "active",
+    "address": "1 Fictional Lane, Demo City",
+    "postal_code": "00001",
+    "service_area": "TT-AREA-01",
+    "created_at": "2026-06-01T09:00:00Z"
+  },
+  {
+    "account_id": "ACC_1002",
+    "user_id": "USER_1002",
+    "status": "active",
+    "address": "2 Fictional Lane, Demo City",
+    "postal_code": "00002",
+    "service_area": "TT-AREA-02",
+    "created_at": "2026-06-01T09:00:00Z"
+  },
+  {
+    "account_id": "ACC_1003",
+    "user_id": "USER_1003",
+    "status": "active",
+    "address": "3 Fictional Lane, Demo City",
+    "postal_code": "00003",
+    "service_area": "TT-AREA-03",
+    "created_at": "2026-06-01T09:00:00Z"
+  },
+  {
+    "account_id": "ACC_1004",
+    "user_id": "USER_1004",
+    "status": "active",
+    "address": "4 Fictional Lane, Demo City",
+    "postal_code": "00004",
+    "service_area": "TT-AREA-04",
+    "created_at": "2026-06-01T09:00:00Z"
+  },
+  {
+    "account_id": "ACC_1005",
+    "user_id": "USER_1005",
+    "status": "active",
+    "address": "5 Fictional Lane, Demo City",
+    "postal_code": "00005",
+    "service_area": "TT-AREA-05",
+    "created_at": "2026-06-01T09:00:00Z"
+  },
+  {
+    "account_id": "ACC_1006",
+    "user_id": "USER_1006",
+    "status": "active",
+    "address": "6 Fictional Lane, Demo City",
+    "postal_code": "00001",
+    "service_area": "TT-AREA-01",
+    "created_at": "2026-06-01T09:00:00Z"
+  },
+  {
+    "account_id": "ACC_1007",
+    "user_id": "USER_1007",
+    "status": "active",
+    "address": "7 Fictional Lane, Demo City",
+    "postal_code": "00002",
+    "service_area": "TT-AREA-02",
+    "created_at": "2026-06-01T09:00:00Z"
+  },
+  {
+    "account_id": "ACC_1008",
+    "user_id": "USER_1008",
+    "status": "active",
+    "address": "8 Fictional Lane, Demo City",
+    "postal_code": "00003",
+    "service_area": "TT-AREA-03",
+    "created_at": "2026-06-01T09:00:00Z"
+  },
+  {
+    "account_id": "ACC_1009",
+    "user_id": "USER_1009",
+    "status": "active",
+    "address": "9 Fictional Lane, Demo City",
+    "postal_code": "00004",
+    "service_area": "TT-AREA-04",
+    "created_at": "2026-06-01T09:00:00Z"
+  },
+  {
+    "account_id": "ACC_1010",
+    "user_id": "USER_1010",
+    "status": "active",
+    "address": "10 Fictional Lane, Demo City",
+    "postal_code": "00005",
+    "service_area": "TT-AREA-05",
+    "created_at": "2026-06-01T09:00:00Z"
+  }
+]

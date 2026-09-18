@@ -1,0 +1,202 @@
+[
+  {
+    "payment_id": "PAY_5001",
+    "invoice_id": "INV_1001",
+    "attempted_amount_cents": 7000,
+    "settled_amount_cents": 7000,
+    "status": "succeeded",
+    "method_type": "simulated_card",
+    "failure_code": null,
+    "created_at": "2026-08-05T10:00:00Z"
+  },
+  {
+    "payment_id": "PAY_5002",
+    "invoice_id": "INV_1002",
+    "attempted_amount_cents": 10500,
+    "settled_amount_cents": 10500,
+    "status": "succeeded",
+    "method_type": "simulated_card",
+    "failure_code": null,
+    "created_at": "2026-09-05T10:00:00Z"
+  },
+  {
+    "payment_id": "PAY_5003",
+    "invoice_id": "INV_1003",
+    "attempted_amount_cents": 6000,
+    "settled_amount_cents": 6000,
+    "status": "succeeded",
+    "method_type": "simulated_bank",
+    "failure_code": null,
+    "created_at": "2026-08-05T10:00:00Z"
+  },
+  {
+    "payment_id": "PAY_5004",
+    "invoice_id": "INV_1004",
+    "attempted_amount_cents": 9500,
+    "settled_amount_cents": 0,
+    "status": "failed",
+    "method_type": "simulated_bank",
+    "failure_code": "SIMULATED_DECLINE",
+    "created_at": "2026-09-05T10:00:00Z"
+  },
+  {
+    "payment_id": "PAY_5005",
+    "invoice_id": "INV_1005",
+    "attempted_amount_cents": 8000,
+    "settled_amount_cents": 8000,
+    "status": "succeeded",
+    "method_type": "simulated_card",
+    "failure_code": null,
+    "created_at": "2026-08-05T10:00:00Z"
+  },
+  {
+    "payment_id": "PAY_5006",
+    "invoice_id": "INV_1006",
+    "attempted_amount_cents": 11500,
+    "settled_amount_cents": 0,
+    "status": "pending",
+    "method_type": "simulated_card",
+    "failure_code": null,
+    "created_at": "2026-09-05T10:00:00Z"
+  },
+  {
+    "payment_id": "PAY_5007",
+    "invoice_id": "INV_1007",
+    "attempted_amount_cents": 5000,
+    "settled_amount_cents": 5000,
+    "status": "succeeded",
+    "method_type": "simulated_bank",
+    "failure_code": null,
+    "created_at": "2026-08-05T10:00:00Z"
+  },
+  {
+    "payment_id": "PAY_5008",
+    "invoice_id": "INV_1008",
+    "attempted_amount_cents": 8500,
+    "settled_amount_cents": 8500,
+    "status": "succeeded",
+    "method_type": "simulated_bank",
+    "failure_code": null,
+    "created_at": "2026-09-05T10:00:00Z"
+  },
+  {
+    "payment_id": "PAY_5009",
+    "invoice_id": "INV_1009",
+    "attempted_amount_cents": 3500,
+    "settled_amount_cents": 3500,
+    "status": "succeeded",
+    "method_type": "simulated_card",
+    "failure_code": null,
+    "created_at": "2026-08-05T10:00:00Z"
+  },
+  {
+    "payment_id": "PAY_5010",
+    "invoice_id": "INV_1010",
+    "attempted_amount_cents": 7000,
+    "settled_amount_cents": 7000,
+    "status": "succeeded",
+    "method_type": "simulated_card",
+    "failure_code": null,
+    "created_at": "2026-09-05T10:00:00Z"
+  },
+  {
+    "payment_id": "PAY_5011",
+    "invoice_id": "INV_1011",
+    "attempted_amount_cents": 9000,
+    "settled_amount_cents": 9000,
+    "status": "succeeded",
+    "method_type": "simulated_bank",
+    "failure_code": null,
+    "created_at": "2026-08-05T10:00:00Z"
+  },
+  {
+    "payment_id": "PAY_5012",
+    "invoice_id": "INV_1012",
+    "attempted_amount_cents": 10000,
+    "settled_amount_cents": 10000,
+    "status": "succeeded",
+    "method_type": "simulated_bank",
+    "failure_code": null,
+    "created_at": "2026-09-05T10:00:00Z"
+  },
+  {
+    "payment_id": "PAY_5013",
+    "invoice_id": "INV_1013",
+    "attempted_amount_cents": 13000,
+    "settled_amount_cents": 13000,
+    "status": "succeeded",
+    "method_type": "simulated_card",
+    "failure_code": null,
+    "created_at": "2026-08-05T10:00:00Z"
+  },
+  {
+    "payment_id": "PAY_5014",
+    "invoice_id": "INV_1014",
+    "attempted_amount_cents": 14000,
+    "settled_amount_cents": 0,
+    "status": "failed",
+    "method_type": "simulated_card",
+    "failure_code": "SIMULATED_DECLINE",
+    "created_at": "2026-09-05T10:00:00Z"
+  },
+  {
+    "payment_id": "PAY_5015",
+    "invoice_id": "INV_1015",
+    "attempted_amount_cents": 12000,
+    "settled_amount_cents": 12000,
+    "status": "succeeded",
+    "method_type": "simulated_bank",
+    "failure_code": null,
+    "created_at": "2026-08-05T10:00:00Z"
+  },
+  {
+    "payment_id": "PAY_5016",
+    "invoice_id": "INV_1016",
+    "attempted_amount_cents": 13000,
+    "settled_amount_cents": 0,
+    "status": "pending",
+    "method_type": "simulated_bank",
+    "failure_code": null,
+    "created_at": "2026-09-05T10:00:00Z"
+  },
+  {
+    "payment_id": "PAY_5017",
+    "invoice_id": "INV_1017",
+    "attempted_amount_cents": 7500,
+    "settled_amount_cents": 7500,
+    "status": "succeeded",
+    "method_type": "simulated_card",
+    "failure_code": null,
+    "created_at": "2026-08-05T10:00:00Z"
+  },
+  {
+    "payment_id": "PAY_5018",
+    "invoice_id": "INV_1018",
+    "attempted_amount_cents": 8500,
+    "settled_amount_cents": 8500,
+    "status": "succeeded",
+    "method_type": "simulated_card",
+    "failure_code": null,
+    "created_at": "2026-09-05T10:00:00Z"
+  },
+  {
+    "payment_id": "PAY_5019",
+    "invoice_id": "INV_1019",
+    "attempted_amount_cents": 6500,
+    "settled_amount_cents": 6500,
+    "status": "succeeded",
+    "method_type": "simulated_bank",
+    "failure_code": null,
+    "created_at": "2026-08-05T10:00:00Z"
+  },
+  {
+    "payment_id": "PAY_5020",
+    "invoice_id": "INV_1020",
+    "attempted_amount_cents": 7500,
+    "settled_amount_cents": 7500,
+    "status": "succeeded",
+    "method_type": "simulated_bank",
+    "failure_code": null,
+    "created_at": "2026-09-05T10:00:00Z"
+  }
+]

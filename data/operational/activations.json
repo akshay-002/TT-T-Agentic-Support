@@ -1,0 +1,42 @@
+[
+  {
+    "activation_id": "ACT_6001",
+    "order_id": "ORDER_001",
+    "line_id": "LINE_2001",
+    "status": "completed",
+    "activated_at": "2026-07-01T00:00:00Z",
+    "fee_posted_invoice_id": "INV_1002"
+  },
+  {
+    "activation_id": "ACT_6002",
+    "order_id": "ORDER_002",
+    "line_id": "LINE_2002",
+    "status": "completed",
+    "activated_at": "2026-07-01T00:00:00Z",
+    "fee_posted_invoice_id": "INV_1004"
+  },
+  {
+    "activation_id": "ACT_6003",
+    "order_id": "ORDER_003",
+    "line_id": "LINE_2003",
+    "status": "completed",
+    "activated_at": "2026-07-01T00:00:00Z",
+    "fee_posted_invoice_id": "INV_1006"
+  },
+  {
+    "activation_id": "ACT_6004",
+    "order_id": "ORDER_004",
+    "line_id": "LINE_2004",
+    "status": "completed",
+    "activated_at": "2026-07-01T00:00:00Z",
+    "fee_posted_invoice_id": "INV_1008"
+  },
+  {
+    "activation_id": "ACT_6005",
+    "order_id": "ORDER_005",
+    "line_id": "LINE_2005",
+    "status": "completed",
+    "activated_at": "2026-07-01T00:00:00Z",
+    "fee_posted_invoice_id": "INV_1010"
+  }
+]

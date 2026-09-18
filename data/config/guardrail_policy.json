@@ -1,0 +1,69 @@
+{
+  "version": "ttt-scope-v1",
+  "synthetic": true,
+  "enabled_intents": [
+    "faq",
+    "billing_explanation",
+    "outage_lookup",
+    "support_ticket"
+  ],
+  "deferred_intents": [
+    "plan_change",
+    "line_suspension",
+    "sim_replacement",
+    "number_port",
+    "payment_execution",
+    "cancellation_execution",
+    "new_connection_execution"
+  ],
+  "forbidden_capabilities": [
+    "code_generation",
+    "code_debugging",
+    "shell_execution",
+    "general_writing",
+    "role_override",
+    "credential_disclosure"
+  ],
+  "decisions": [
+    "ALLOW",
+    "REFUSE",
+    "CLARIFY",
+    "MIXED",
+    "HANDOFF"
+  ],
+  "tools_by_intent": {
+    "faq": [],
+    "billing_explanation": [
+      "get_invoice_comparison"
+    ],
+    "outage_lookup": [
+      "get_outages"
+    ],
+    "support_ticket": [
+      "create_support_ticket"
+    ]
+  },
+  "retrieval_is_business_tool": false,
+  "fixed_responses": {
+    "coding_refusal": "I can help with TT&T bills, plans, connectivity, and support requests. I cannot write or debug code. Tell me what you need help with regarding your TT&T service.",
+    "scope_refusal": "I can help with TT&T service and support questions. I cannot help with that unrelated task.",
+    "clarification": "Do you mean an issue with your TT&T service, such as an activation error? Please describe the error without sharing a secret code.",
+    "unavailable": "I could not safely verify this request right now. Please try again or use the support option.",
+    "safety_emergency": "If there is an immediate emergency, contact local emergency services using an available phone or another appropriate channel. This chat cannot provide emergency response."
+  },
+  "fail_closed_on": [
+    "invalid_classifier_output",
+    "classifier_timeout",
+    "output_guard_failure"
+  ],
+  "stream_unvalidated_tokens": false,
+  "max_model_calls_per_turn": 4,
+  "max_tool_calls_per_turn": 6,
+  "max_active_seconds": 45,
+  "notes": [
+    "This config specifies desired behavior; loading it does not implement enforcement.",
+    "Bind principals to server-side sessions; never trust user-supplied account IDs.",
+    "Recheck all tool ownership and intent permissions server-side.",
+    "Out-of-scope requests invoke zero business tools; mixed requests may use only the tools needed for the independently valid support portion."
+  ]
+}

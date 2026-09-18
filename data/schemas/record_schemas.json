@@ -1,0 +1,1107 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "TT&T operational array file schemas",
+  "$defs": {
+    "users": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "user_id",
+          "principal_id",
+          "display_name",
+          "email",
+          "created_at"
+        ],
+        "properties": {
+          "user_id": {
+            "type": [
+              "string"
+            ]
+          },
+          "principal_id": {
+            "type": [
+              "string"
+            ]
+          },
+          "display_name": {
+            "type": [
+              "string"
+            ]
+          },
+          "email": {
+            "type": [
+              "string"
+            ]
+          },
+          "created_at": {
+            "type": [
+              "string"
+            ]
+          }
+        }
+      }
+    },
+    "accounts": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "account_id",
+          "user_id",
+          "status",
+          "address",
+          "postal_code",
+          "service_area",
+          "created_at"
+        ],
+        "properties": {
+          "account_id": {
+            "type": [
+              "string"
+            ]
+          },
+          "user_id": {
+            "type": [
+              "string"
+            ]
+          },
+          "status": {
+            "type": [
+              "string"
+            ]
+          },
+          "address": {
+            "type": [
+              "string"
+            ]
+          },
+          "postal_code": {
+            "type": [
+              "string"
+            ]
+          },
+          "service_area": {
+            "type": [
+              "string"
+            ]
+          },
+          "created_at": {
+            "type": [
+              "string"
+            ]
+          }
+        }
+      }
+    },
+    "plans": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "plan_id",
+          "name",
+          "monthly_price_cents",
+          "data_allowance_mb",
+          "hotspot_allowance_mb",
+          "supports_5g",
+          "plan_type",
+          "effective_from",
+          "effective_to"
+        ],
+        "properties": {
+          "plan_id": {
+            "type": [
+              "string"
+            ]
+          },
+          "name": {
+            "type": [
+              "string"
+            ]
+          },
+          "monthly_price_cents": {
+            "type": [
+              "integer"
+            ]
+          },
+          "data_allowance_mb": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "hotspot_allowance_mb": {
+            "type": [
+              "integer"
+            ]
+          },
+          "supports_5g": {
+            "type": [
+              "integer"
+            ]
+          },
+          "plan_type": {
+            "type": [
+              "string"
+            ]
+          },
+          "effective_from": {
+            "type": [
+              "string"
+            ]
+          },
+          "effective_to": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        }
+      }
+    },
+    "lines": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "line_id",
+          "account_id",
+          "masked_phone",
+          "status",
+          "version",
+          "activated_at"
+        ],
+        "properties": {
+          "line_id": {
+            "type": [
+              "string"
+            ]
+          },
+          "account_id": {
+            "type": [
+              "string"
+            ]
+          },
+          "masked_phone": {
+            "type": [
+              "string"
+            ]
+          },
+          "status": {
+            "type": [
+              "string"
+            ]
+          },
+          "version": {
+            "type": [
+              "integer"
+            ]
+          },
+          "activated_at": {
+            "type": [
+              "string"
+            ]
+          }
+        }
+      }
+    },
+    "subscriptions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "subscription_id",
+          "line_id",
+          "plan_id",
+          "start_date",
+          "end_date"
+        ],
+        "properties": {
+          "subscription_id": {
+            "type": [
+              "string"
+            ]
+          },
+          "line_id": {
+            "type": [
+              "string"
+            ]
+          },
+          "plan_id": {
+            "type": [
+              "string"
+            ]
+          },
+          "start_date": {
+            "type": [
+              "string"
+            ]
+          },
+          "end_date": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        }
+      }
+    },
+    "devices": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "device_id",
+          "line_id",
+          "brand",
+          "model",
+          "esim_supported",
+          "upgrade_eligible",
+          "monthly_installment_cents"
+        ],
+        "properties": {
+          "device_id": {
+            "type": [
+              "string"
+            ]
+          },
+          "line_id": {
+            "type": [
+              "string"
+            ]
+          },
+          "brand": {
+            "type": [
+              "string"
+            ]
+          },
+          "model": {
+            "type": [
+              "string"
+            ]
+          },
+          "esim_supported": {
+            "type": [
+              "integer"
+            ]
+          },
+          "upgrade_eligible": {
+            "type": [
+              "integer"
+            ]
+          },
+          "monthly_installment_cents": {
+            "type": [
+              "integer"
+            ]
+          }
+        }
+      }
+    },
+    "invoices": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "invoice_id",
+          "account_id",
+          "period_start",
+          "period_end",
+          "issued_at",
+          "due_date",
+          "currency",
+          "total_cents",
+          "amount_paid_cents",
+          "balance_due_cents",
+          "status"
+        ],
+        "properties": {
+          "invoice_id": {
+            "type": [
+              "string"
+            ]
+          },
+          "account_id": {
+            "type": [
+              "string"
+            ]
+          },
+          "period_start": {
+            "type": [
+              "string"
+            ]
+          },
+          "period_end": {
+            "type": [
+              "string"
+            ]
+          },
+          "issued_at": {
+            "type": [
+              "string"
+            ]
+          },
+          "due_date": {
+            "type": [
+              "string"
+            ]
+          },
+          "currency": {
+            "type": [
+              "string"
+            ]
+          },
+          "total_cents": {
+            "type": [
+              "integer"
+            ]
+          },
+          "amount_paid_cents": {
+            "type": [
+              "integer"
+            ]
+          },
+          "balance_due_cents": {
+            "type": [
+              "integer"
+            ]
+          },
+          "status": {
+            "type": [
+              "string"
+            ]
+          }
+        }
+      }
+    },
+    "invoice_items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "item_id",
+          "invoice_id",
+          "line_id",
+          "item_type",
+          "description",
+          "amount_cents",
+          "policy_id",
+          "service_event_id"
+        ],
+        "properties": {
+          "item_id": {
+            "type": [
+              "string"
+            ]
+          },
+          "invoice_id": {
+            "type": [
+              "string"
+            ]
+          },
+          "line_id": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "item_type": {
+            "type": [
+              "string"
+            ]
+          },
+          "description": {
+            "type": [
+              "string"
+            ]
+          },
+          "amount_cents": {
+            "type": [
+              "integer"
+            ]
+          },
+          "policy_id": {
+            "type": [
+              "string"
+            ]
+          },
+          "service_event_id": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        }
+      }
+    },
+    "payments": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "payment_id",
+          "invoice_id",
+          "attempted_amount_cents",
+          "settled_amount_cents",
+          "status",
+          "method_type",
+          "failure_code",
+          "created_at"
+        ],
+        "properties": {
+          "payment_id": {
+            "type": [
+              "string"
+            ]
+          },
+          "invoice_id": {
+            "type": [
+              "string"
+            ]
+          },
+          "attempted_amount_cents": {
+            "type": [
+              "integer"
+            ]
+          },
+          "settled_amount_cents": {
+            "type": [
+              "integer"
+            ]
+          },
+          "status": {
+            "type": [
+              "string"
+            ]
+          },
+          "method_type": {
+            "type": [
+              "string"
+            ]
+          },
+          "failure_code": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "created_at": {
+            "type": [
+              "string"
+            ]
+          }
+        }
+      }
+    },
+    "usage_records": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "usage_id",
+          "line_id",
+          "period_start",
+          "period_end",
+          "data_mb",
+          "hotspot_mb",
+          "voice_minutes",
+          "sms_count"
+        ],
+        "properties": {
+          "usage_id": {
+            "type": [
+              "string"
+            ]
+          },
+          "line_id": {
+            "type": [
+              "string"
+            ]
+          },
+          "period_start": {
+            "type": [
+              "string"
+            ]
+          },
+          "period_end": {
+            "type": [
+              "string"
+            ]
+          },
+          "data_mb": {
+            "type": [
+              "integer"
+            ]
+          },
+          "hotspot_mb": {
+            "type": [
+              "integer"
+            ]
+          },
+          "voice_minutes": {
+            "type": [
+              "integer"
+            ]
+          },
+          "sms_count": {
+            "type": [
+              "integer"
+            ]
+          }
+        }
+      }
+    },
+    "outages": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "outage_id",
+          "service_area",
+          "postal_code",
+          "network_type",
+          "status",
+          "started_at",
+          "observed_at",
+          "estimated_resolution",
+          "resolved_at",
+          "summary"
+        ],
+        "properties": {
+          "outage_id": {
+            "type": [
+              "string"
+            ]
+          },
+          "service_area": {
+            "type": [
+              "string"
+            ]
+          },
+          "postal_code": {
+            "type": [
+              "string"
+            ]
+          },
+          "network_type": {
+            "type": [
+              "string"
+            ]
+          },
+          "status": {
+            "type": [
+              "string"
+            ]
+          },
+          "started_at": {
+            "type": [
+              "string"
+            ]
+          },
+          "observed_at": {
+            "type": [
+              "string"
+            ]
+          },
+          "estimated_resolution": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "resolved_at": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "summary": {
+            "type": [
+              "string"
+            ]
+          }
+        }
+      }
+    },
+    "support_tickets": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "ticket_id",
+          "account_id",
+          "line_id",
+          "category",
+          "summary",
+          "status",
+          "created_at",
+          "updated_at",
+          "resolved_at",
+          "idempotency_key"
+        ],
+        "properties": {
+          "ticket_id": {
+            "type": [
+              "string"
+            ]
+          },
+          "account_id": {
+            "type": [
+              "string"
+            ]
+          },
+          "line_id": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "category": {
+            "type": [
+              "string"
+            ]
+          },
+          "summary": {
+            "type": [
+              "string"
+            ]
+          },
+          "status": {
+            "type": [
+              "string"
+            ]
+          },
+          "created_at": {
+            "type": [
+              "string"
+            ]
+          },
+          "updated_at": {
+            "type": [
+              "string"
+            ]
+          },
+          "resolved_at": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "idempotency_key": {
+            "type": [
+              "string"
+            ]
+          }
+        }
+      }
+    },
+    "connection_requests": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "request_id",
+          "account_id",
+          "requested_lines",
+          "postal_code",
+          "selected_plan_id",
+          "status",
+          "created_at"
+        ],
+        "properties": {
+          "request_id": {
+            "type": [
+              "string"
+            ]
+          },
+          "account_id": {
+            "type": [
+              "string"
+            ]
+          },
+          "requested_lines": {
+            "type": [
+              "integer"
+            ]
+          },
+          "postal_code": {
+            "type": [
+              "string"
+            ]
+          },
+          "selected_plan_id": {
+            "type": [
+              "string"
+            ]
+          },
+          "status": {
+            "type": [
+              "string"
+            ]
+          },
+          "created_at": {
+            "type": [
+              "string"
+            ]
+          }
+        }
+      }
+    },
+    "orders": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "order_id",
+          "request_id",
+          "account_id",
+          "line_id",
+          "status",
+          "sim_type",
+          "created_at",
+          "completed_at"
+        ],
+        "properties": {
+          "order_id": {
+            "type": [
+              "string"
+            ]
+          },
+          "request_id": {
+            "type": [
+              "string"
+            ]
+          },
+          "account_id": {
+            "type": [
+              "string"
+            ]
+          },
+          "line_id": {
+            "type": [
+              "string"
+            ]
+          },
+          "status": {
+            "type": [
+              "string"
+            ]
+          },
+          "sim_type": {
+            "type": [
+              "string"
+            ]
+          },
+          "created_at": {
+            "type": [
+              "string"
+            ]
+          },
+          "completed_at": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        }
+      }
+    },
+    "activations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "activation_id",
+          "order_id",
+          "line_id",
+          "status",
+          "activated_at",
+          "fee_posted_invoice_id"
+        ],
+        "properties": {
+          "activation_id": {
+            "type": [
+              "string"
+            ]
+          },
+          "order_id": {
+            "type": [
+              "string"
+            ]
+          },
+          "line_id": {
+            "type": [
+              "string"
+            ]
+          },
+          "status": {
+            "type": [
+              "string"
+            ]
+          },
+          "activated_at": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "fee_posted_invoice_id": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        }
+      }
+    },
+    "number_port_requests": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "port_request_id",
+          "request_id",
+          "line_id",
+          "old_carrier",
+          "requested_number_masked",
+          "status",
+          "requested_at",
+          "completed_at",
+          "status_detail"
+        ],
+        "properties": {
+          "port_request_id": {
+            "type": [
+              "string"
+            ]
+          },
+          "request_id": {
+            "type": [
+              "string"
+            ]
+          },
+          "line_id": {
+            "type": [
+              "string"
+            ]
+          },
+          "old_carrier": {
+            "type": [
+              "string"
+            ]
+          },
+          "requested_number_masked": {
+            "type": [
+              "string"
+            ]
+          },
+          "status": {
+            "type": [
+              "string"
+            ]
+          },
+          "requested_at": {
+            "type": [
+              "string"
+            ]
+          },
+          "completed_at": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "status_detail": {
+            "type": [
+              "string"
+            ]
+          }
+        }
+      }
+    },
+    "account_history": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "event_id",
+          "account_id",
+          "line_id",
+          "event_type",
+          "occurred_at",
+          "summary",
+          "related_record_id"
+        ],
+        "properties": {
+          "event_id": {
+            "type": [
+              "string"
+            ]
+          },
+          "account_id": {
+            "type": [
+              "string"
+            ]
+          },
+          "line_id": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "event_type": {
+            "type": [
+              "string"
+            ]
+          },
+          "occurred_at": {
+            "type": [
+              "string"
+            ]
+          },
+          "summary": {
+            "type": [
+              "string"
+            ]
+          },
+          "related_record_id": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        }
+      }
+    },
+    "runs": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "run_id",
+          "account_id",
+          "principal_id",
+          "intent",
+          "status",
+          "started_at",
+          "completed_at",
+          "policy_version",
+          "tool_call_count"
+        ],
+        "properties": {
+          "run_id": {
+            "type": [
+              "string"
+            ]
+          },
+          "account_id": {
+            "type": [
+              "string"
+            ]
+          },
+          "principal_id": {
+            "type": [
+              "string"
+            ]
+          },
+          "intent": {
+            "type": [
+              "string"
+            ]
+          },
+          "status": {
+            "type": [
+              "string"
+            ]
+          },
+          "started_at": {
+            "type": [
+              "string"
+            ]
+          },
+          "completed_at": {
+            "type": [
+              "string"
+            ]
+          },
+          "policy_version": {
+            "type": [
+              "string"
+            ]
+          },
+          "tool_call_count": {
+            "type": [
+              "integer"
+            ]
+          }
+        }
+      }
+    },
+    "audit_events": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "audit_id",
+          "run_id",
+          "account_id",
+          "event_type",
+          "reason_code",
+          "occurred_at"
+        ],
+        "properties": {
+          "audit_id": {
+            "type": [
+              "string"
+            ]
+          },
+          "run_id": {
+            "type": [
+              "string"
+            ]
+          },
+          "account_id": {
+            "type": [
+              "string"
+            ]
+          },
+          "event_type": {
+            "type": [
+              "string"
+            ]
+          },
+          "reason_code": {
+            "type": [
+              "string"
+            ]
+          },
+          "occurred_at": {
+            "type": [
+              "string"
+            ]
+          }
+        }
+      }
+    }
+  }
+}

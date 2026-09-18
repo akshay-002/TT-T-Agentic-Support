@@ -1,0 +1,122 @@
+[
+  {
+    "line_id": "LINE_2001",
+    "account_id": "ACC_1001",
+    "masked_phone": "***-***-1001",
+    "status": "active",
+    "version": 1,
+    "activated_at": "2026-07-01T00:00:00Z"
+  },
+  {
+    "line_id": "LINE_2002",
+    "account_id": "ACC_1002",
+    "masked_phone": "***-***-1002",
+    "status": "active",
+    "version": 1,
+    "activated_at": "2026-07-01T00:00:00Z"
+  },
+  {
+    "line_id": "LINE_2003",
+    "account_id": "ACC_1003",
+    "masked_phone": "***-***-1003",
+    "status": "active",
+    "version": 1,
+    "activated_at": "2026-07-01T00:00:00Z"
+  },
+  {
+    "line_id": "LINE_2004",
+    "account_id": "ACC_1004",
+    "masked_phone": "***-***-1004",
+    "status": "active",
+    "version": 1,
+    "activated_at": "2026-07-01T00:00:00Z"
+  },
+  {
+    "line_id": "LINE_2005",
+    "account_id": "ACC_1005",
+    "masked_phone": "***-***-1005",
+    "status": "active",
+    "version": 1,
+    "activated_at": "2026-07-01T00:00:00Z"
+  },
+  {
+    "line_id": "LINE_2006",
+    "account_id": "ACC_1006",
+    "masked_phone": "***-***-1006",
+    "status": "active",
+    "version": 1,
+    "activated_at": "2026-07-01T00:00:00Z"
+  },
+  {
+    "line_id": "LINE_2007",
+    "account_id": "ACC_1006",
+    "masked_phone": "***-***-1007",
+    "status": "active",
+    "version": 1,
+    "activated_at": "2026-07-01T00:00:00Z"
+  },
+  {
+    "line_id": "LINE_2008",
+    "account_id": "ACC_1007",
+    "masked_phone": "***-***-1008",
+    "status": "active",
+    "version": 1,
+    "activated_at": "2026-07-01T00:00:00Z"
+  },
+  {
+    "line_id": "LINE_2009",
+    "account_id": "ACC_1007",
+    "masked_phone": "***-***-1009",
+    "status": "active",
+    "version": 1,
+    "activated_at": "2026-07-01T00:00:00Z"
+  },
+  {
+    "line_id": "LINE_2010",
+    "account_id": "ACC_1008",
+    "masked_phone": "***-***-1010",
+    "status": "active",
+    "version": 1,
+    "activated_at": "2026-07-01T00:00:00Z"
+  },
+  {
+    "line_id": "LINE_2011",
+    "account_id": "ACC_1008",
+    "masked_phone": "***-***-1011",
+    "status": "active",
+    "version": 1,
+    "activated_at": "2026-07-01T00:00:00Z"
+  },
+  {
+    "line_id": "LINE_2012",
+    "account_id": "ACC_1009",
+    "masked_phone": "***-***-1012",
+    "status": "active",
+    "version": 1,
+    "activated_at": "2026-07-01T00:00:00Z"
+  },
+  {
+    "line_id": "LINE_2013",
+    "account_id": "ACC_1009",
+    "masked_phone": "***-***-1013",
+    "status": "active",
+    "version": 1,
+    "activated_at": "2026-07-01T00:00:00Z"
+  },
+  {
+    "line_id": "LINE_2014",
+    "account_id": "ACC_1010",
+    "masked_phone": "***-***-1014",
+    "status": "active",
+    "version": 1,
+    "activated_at": "2026-07-01T00:00:00Z"
+  },
+  {
+    "line_id": "LINE_2015",
+    "account_id": "ACC_1010",
+    "masked_phone": "***-***-1015",
+    "status": "suspended",
+    "version": 2,
+    "activated_at": "2026-07-01T00:00:00Z"
+  }
+]

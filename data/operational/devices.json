@@ -1,0 +1,137 @@
+[
+  {
+    "device_id": "DEV_4001",
+    "line_id": "LINE_2001",
+    "brand": "Fiction Mobile",
+    "model": "DemoPhone 2",
+    "esim_supported": 1,
+    "upgrade_eligible": 0,
+    "monthly_installment_cents": 0
+  },
+  {
+    "device_id": "DEV_4002",
+    "line_id": "LINE_2002",
+    "brand": "Fiction Mobile",
+    "model": "DemoPhone 3",
+    "esim_supported": 1,
+    "upgrade_eligible": 1,
+    "monthly_installment_cents": 1000
+  },
+  {
+    "device_id": "DEV_4003",
+    "line_id": "LINE_2003",
+    "brand": "Fiction Mobile",
+    "model": "DemoPhone 1",
+    "esim_supported": 0,
+    "upgrade_eligible": 0,
+    "monthly_installment_cents": 1000
+  },
+  {
+    "device_id": "DEV_4004",
+    "line_id": "LINE_2004",
+    "brand": "Fiction Mobile",
+    "model": "DemoPhone 2",
+    "esim_supported": 1,
+    "upgrade_eligible": 1,
+    "monthly_installment_cents": 1000
+  },
+  {
+    "device_id": "DEV_4005",
+    "line_id": "LINE_2005",
+    "brand": "Fiction Mobile",
+    "model": "DemoPhone 3",
+    "esim_supported": 1,
+    "upgrade_eligible": 0,
+    "monthly_installment_cents": 1000
+  },
+  {
+    "device_id": "DEV_4006",
+    "line_id": "LINE_2006",
+    "brand": "Fiction Mobile",
+    "model": "DemoPhone 1",
+    "esim_supported": 0,
+    "upgrade_eligible": 1,
+    "monthly_installment_cents": 1000
+  },
+  {
+    "device_id": "DEV_4007",
+    "line_id": "LINE_2007",
+    "brand": "Fiction Mobile",
+    "model": "DemoPhone 2",
+    "esim_supported": 1,
+    "upgrade_eligible": 1,
+    "monthly_installment_cents": 0
+  },
+  {
+    "device_id": "DEV_4008",
+    "line_id": "LINE_2008",
+    "brand": "Fiction Mobile",
+    "model": "DemoPhone 3",
+    "esim_supported": 1,
+    "upgrade_eligible": 0,
+    "monthly_installment_cents": 1000
+  },
+  {
+    "device_id": "DEV_4009",
+    "line_id": "LINE_2009",
+    "brand": "Fiction Mobile",
+    "model": "DemoPhone 1",
+    "esim_supported": 0,
+    "upgrade_eligible": 0,
+    "monthly_installment_cents": 0
+  },
+  {
+    "device_id": "DEV_4010",
+    "line_id": "LINE_2010",
+    "brand": "Fiction Mobile",
+    "model": "DemoPhone 2",
+    "esim_supported": 1,
+    "upgrade_eligible": 1,
+    "monthly_installment_cents": 1000
+  },
+  {
+    "device_id": "DEV_4011",
+    "line_id": "LINE_2011",
+    "brand": "Fiction Mobile",
+    "model": "DemoPhone 3",
+    "esim_supported": 1,
+    "upgrade_eligible": 1,
+    "monthly_installment_cents": 0
+  },
+  {
+    "device_id": "DEV_4012",
+    "line_id": "LINE_2012",
+    "brand": "Fiction Mobile",
+    "model": "DemoPhone 1",
+    "esim_supported": 0,
+    "upgrade_eligible": 0,
+    "monthly_installment_cents": 1000
+  },
+  {
+    "device_id": "DEV_4013",
+    "line_id": "LINE_2013",
+    "brand": "Fiction Mobile",
+    "model": "DemoPhone 2",
+    "esim_supported": 1,
+    "upgrade_eligible": 0,
+    "monthly_installment_cents": 0
+  },
+  {
+    "device_id": "DEV_4014",
+    "line_id": "LINE_2014",
+    "brand": "Fiction Mobile",
+    "model": "DemoPhone 3",
+    "esim_supported": 1,
+    "upgrade_eligible": 1,
+    "monthly_installment_cents": 1000
+  },
+  {
+    "device_id": "DEV_4015",
+    "line_id": "LINE_2015",
+    "brand": "Fiction Mobile",
+    "model": "DemoPhone 1",
+    "esim_supported": 0,
+    "upgrade_eligible": 1,
+    "monthly_installment_cents": 0
+  }
+]

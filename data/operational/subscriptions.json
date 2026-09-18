@@ -1,0 +1,107 @@
+[
+  {
+    "subscription_id": "SUB_3001",
+    "line_id": "LINE_2001",
+    "plan_id": "PLAN_03",
+    "start_date": "2026-07-01",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB_3002",
+    "line_id": "LINE_2002",
+    "plan_id": "PLAN_02",
+    "start_date": "2026-07-01",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB_3003",
+    "line_id": "LINE_2003",
+    "plan_id": "PLAN_03",
+    "start_date": "2026-07-01",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB_3004",
+    "line_id": "LINE_2004",
+    "plan_id": "PLAN_04",
+    "start_date": "2026-07-01",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB_3005",
+    "line_id": "LINE_2005",
+    "plan_id": "PLAN_05",
+    "start_date": "2026-07-01",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB_3006",
+    "line_id": "LINE_2006",
+    "plan_id": "PLAN_01",
+    "start_date": "2026-07-01",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB_3007",
+    "line_id": "LINE_2007",
+    "plan_id": "PLAN_02",
+    "start_date": "2026-07-01",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB_3008",
+    "line_id": "LINE_2008",
+    "plan_id": "PLAN_02",
+    "start_date": "2026-07-01",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB_3009",
+    "line_id": "LINE_2009",
+    "plan_id": "PLAN_03",
+    "start_date": "2026-07-01",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB_3010",
+    "line_id": "LINE_2010",
+    "plan_id": "PLAN_03",
+    "start_date": "2026-07-01",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB_3011",
+    "line_id": "LINE_2011",
+    "plan_id": "PLAN_04",
+    "start_date": "2026-07-01",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB_3012",
+    "line_id": "LINE_2012",
+    "plan_id": "PLAN_04",
+    "start_date": "2026-07-01",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB_3013",
+    "line_id": "LINE_2013",
+    "plan_id": "PLAN_05",
+    "start_date": "2026-07-01",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB_3014",
+    "line_id": "LINE_2014",
+    "plan_id": "PLAN_05",
+    "start_date": "2026-07-01",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB_3015",
+    "line_id": "LINE_2015",
+    "plan_id": "PLAN_01",
+    "start_date": "2026-07-01",
+    "end_date": null
+  }
+]

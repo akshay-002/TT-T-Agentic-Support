@@ -1,0 +1,326 @@
+[
+  {
+    "event_id": "HIST_01_A",
+    "account_id": "ACC_1001",
+    "line_id": "LINE_2001",
+    "event_type": "line_activated",
+    "occurred_at": "2026-07-01T00:00:00Z",
+    "summary": "Primary line activated in the simulation.",
+    "related_record_id": "LINE_2001"
+  },
+  {
+    "event_id": "HIST_01_B",
+    "account_id": "ACC_1001",
+    "line_id": "LINE_2001",
+    "event_type": "invoice_issued",
+    "occurred_at": "2026-09-01T00:00:00Z",
+    "summary": "August invoice issued.",
+    "related_record_id": "INV_1002"
+  },
+  {
+    "event_id": "HIST_01_C",
+    "account_id": "ACC_1001",
+    "line_id": "LINE_2001",
+    "event_type": "ticket_created",
+    "occurred_at": "2026-09-06T10:00:00Z",
+    "summary": "Support ticket created.",
+    "related_record_id": "TKT_7001"
+  },
+  {
+    "event_id": "HIST_02_A",
+    "account_id": "ACC_1002",
+    "line_id": "LINE_2002",
+    "event_type": "line_activated",
+    "occurred_at": "2026-07-01T00:00:00Z",
+    "summary": "Primary line activated in the simulation.",
+    "related_record_id": "LINE_2002"
+  },
+  {
+    "event_id": "HIST_02_B",
+    "account_id": "ACC_1002",
+    "line_id": "LINE_2002",
+    "event_type": "invoice_issued",
+    "occurred_at": "2026-09-01T00:00:00Z",
+    "summary": "August invoice issued.",
+    "related_record_id": "INV_1004"
+  },
+  {
+    "event_id": "HIST_02_C",
+    "account_id": "ACC_1002",
+    "line_id": "LINE_2002",
+    "event_type": "ticket_created",
+    "occurred_at": "2026-09-06T10:00:00Z",
+    "summary": "Support ticket created.",
+    "related_record_id": "TKT_7002"
+  },
+  {
+    "event_id": "HIST_03_A",
+    "account_id": "ACC_1003",
+    "line_id": "LINE_2003",
+    "event_type": "line_activated",
+    "occurred_at": "2026-07-01T00:00:00Z",
+    "summary": "Primary line activated in the simulation.",
+    "related_record_id": "LINE_2003"
+  },
+  {
+    "event_id": "HIST_03_B",
+    "account_id": "ACC_1003",
+    "line_id": "LINE_2003",
+    "event_type": "invoice_issued",
+    "occurred_at": "2026-09-01T00:00:00Z",
+    "summary": "August invoice issued.",
+    "related_record_id": "INV_1006"
+  },
+  {
+    "event_id": "HIST_03_C",
+    "account_id": "ACC_1003",
+    "line_id": "LINE_2003",
+    "event_type": "ticket_created",
+    "occurred_at": "2026-09-06T10:00:00Z",
+    "summary": "Support ticket created.",
+    "related_record_id": "TKT_7003"
+  },
+  {
+    "event_id": "HIST_04_A",
+    "account_id": "ACC_1004",
+    "line_id": "LINE_2004",
+    "event_type": "line_activated",
+    "occurred_at": "2026-07-01T00:00:00Z",
+    "summary": "Primary line activated in the simulation.",
+    "related_record_id": "LINE_2004"
+  },
+  {
+    "event_id": "HIST_04_B",
+    "account_id": "ACC_1004",
+    "line_id": "LINE_2004",
+    "event_type": "invoice_issued",
+    "occurred_at": "2026-09-01T00:00:00Z",
+    "summary": "August invoice issued.",
+    "related_record_id": "INV_1008"
+  },
+  {
+    "event_id": "HIST_04_C",
+    "account_id": "ACC_1004",
+    "line_id": "LINE_2004",
+    "event_type": "ticket_created",
+    "occurred_at": "2026-09-06T10:00:00Z",
+    "summary": "Support ticket created.",
+    "related_record_id": "TKT_7004"
+  },
+  {
+    "event_id": "HIST_05_A",
+    "account_id": "ACC_1005",
+    "line_id": "LINE_2005",
+    "event_type": "line_activated",
+    "occurred_at": "2026-07-01T00:00:00Z",
+    "summary": "Primary line activated in the simulation.",
+    "related_record_id": "LINE_2005"
+  },
+  {
+    "event_id": "HIST_05_B",
+    "account_id": "ACC_1005",
+    "line_id": "LINE_2005",
+    "event_type": "invoice_issued",
+    "occurred_at": "2026-09-01T00:00:00Z",
+    "summary": "August invoice issued.",
+    "related_record_id": "INV_1010"
+  },
+  {
+    "event_id": "HIST_05_C",
+    "account_id": "ACC_1005",
+    "line_id": "LINE_2005",
+    "event_type": "ticket_created",
+    "occurred_at": "2026-09-06T10:00:00Z",
+    "summary": "Support ticket created.",
+    "related_record_id": "TKT_7005"
+  },
+  {
+    "event_id": "HIST_06_A",
+    "account_id": "ACC_1006",
+    "line_id": "LINE_2006",
+    "event_type": "line_activated",
+    "occurred_at": "2026-07-01T00:00:00Z",
+    "summary": "Primary line activated in the simulation.",
+    "related_record_id": "LINE_2006"
+  },
+  {
+    "event_id": "HIST_06_B",
+    "account_id": "ACC_1006",
+    "line_id": "LINE_2006",
+    "event_type": "invoice_issued",
+    "occurred_at": "2026-09-01T00:00:00Z",
+    "summary": "August invoice issued.",
+    "related_record_id": "INV_1012"
+  },
+  {
+    "event_id": "HIST_06_C",
+    "account_id": "ACC_1006",
+    "line_id": "LINE_2006",
+    "event_type": "ticket_created",
+    "occurred_at": "2026-09-06T10:00:00Z",
+    "summary": "Support ticket created.",
+    "related_record_id": "TKT_7006"
+  },
+  {
+    "event_id": "EVT_TRAVEL_6",
+    "account_id": "ACC_1006",
+    "line_id": "LINE_2006",
+    "event_type": "roaming_pass_used",
+    "occurred_at": "2026-08-20T08:00:00Z",
+    "summary": "One fictional travel day pass used in Exampleland.",
+    "related_record_id": "INV_1012"
+  },
+  {
+    "event_id": "HIST_07_A",
+    "account_id": "ACC_1007",
+    "line_id": "LINE_2008",
+    "event_type": "line_activated",
+    "occurred_at": "2026-07-01T00:00:00Z",
+    "summary": "Primary line activated in the simulation.",
+    "related_record_id": "LINE_2008"
+  },
+  {
+    "event_id": "HIST_07_B",
+    "account_id": "ACC_1007",
+    "line_id": "LINE_2008",
+    "event_type": "invoice_issued",
+    "occurred_at": "2026-09-01T00:00:00Z",
+    "summary": "August invoice issued.",
+    "related_record_id": "INV_1014"
+  },
+  {
+    "event_id": "HIST_07_C",
+    "account_id": "ACC_1007",
+    "line_id": "LINE_2008",
+    "event_type": "ticket_created",
+    "occurred_at": "2026-09-06T10:00:00Z",
+    "summary": "Support ticket created.",
+    "related_record_id": "TKT_7007"
+  },
+  {
+    "event_id": "EVT_TRAVEL_7",
+    "account_id": "ACC_1007",
+    "line_id": "LINE_2008",
+    "event_type": "roaming_pass_used",
+    "occurred_at": "2026-08-20T08:00:00Z",
+    "summary": "One fictional travel day pass used in Exampleland.",
+    "related_record_id": "INV_1014"
+  },
+  {
+    "event_id": "HIST_08_A",
+    "account_id": "ACC_1008",
+    "line_id": "LINE_2010",
+    "event_type": "line_activated",
+    "occurred_at": "2026-07-01T00:00:00Z",
+    "summary": "Primary line activated in the simulation.",
+    "related_record_id": "LINE_2010"
+  },
+  {
+    "event_id": "HIST_08_B",
+    "account_id": "ACC_1008",
+    "line_id": "LINE_2010",
+    "event_type": "invoice_issued",
+    "occurred_at": "2026-09-01T00:00:00Z",
+    "summary": "August invoice issued.",
+    "related_record_id": "INV_1016"
+  },
+  {
+    "event_id": "HIST_08_C",
+    "account_id": "ACC_1008",
+    "line_id": "LINE_2010",
+    "event_type": "ticket_created",
+    "occurred_at": "2026-09-06T10:00:00Z",
+    "summary": "Support ticket created.",
+    "related_record_id": "TKT_7008"
+  },
+  {
+    "event_id": "EVT_TRAVEL_8",
+    "account_id": "ACC_1008",
+    "line_id": "LINE_2010",
+    "event_type": "roaming_pass_used",
+    "occurred_at": "2026-08-20T08:00:00Z",
+    "summary": "One fictional travel day pass used in Exampleland.",
+    "related_record_id": "INV_1016"
+  },
+  {
+    "event_id": "HIST_09_A",
+    "account_id": "ACC_1009",
+    "line_id": "LINE_2012",
+    "event_type": "line_activated",
+    "occurred_at": "2026-07-01T00:00:00Z",
+    "summary": "Primary line activated in the simulation.",
+    "related_record_id": "LINE_2012"
+  },
+  {
+    "event_id": "HIST_09_B",
+    "account_id": "ACC_1009",
+    "line_id": "LINE_2012",
+    "event_type": "invoice_issued",
+    "occurred_at": "2026-09-01T00:00:00Z",
+    "summary": "August invoice issued.",
+    "related_record_id": "INV_1018"
+  },
+  {
+    "event_id": "HIST_09_C",
+    "account_id": "ACC_1009",
+    "line_id": "LINE_2012",
+    "event_type": "ticket_created",
+    "occurred_at": "2026-09-06T10:00:00Z",
+    "summary": "Support ticket created.",
+    "related_record_id": "TKT_7009"
+  },
+  {
+    "event_id": "EVT_TRAVEL_9",
+    "account_id": "ACC_1009",
+    "line_id": "LINE_2012",
+    "event_type": "roaming_pass_used",
+    "occurred_at": "2026-08-20T08:00:00Z",
+    "summary": "One fictional travel day pass used in Exampleland.",
+    "related_record_id": "INV_1018"
+  },
+  {
+    "event_id": "HIST_10_A",
+    "account_id": "ACC_1010",
+    "line_id": "LINE_2014",
+    "event_type": "line_activated",
+    "occurred_at": "2026-07-01T00:00:00Z",
+    "summary": "Primary line activated in the simulation.",
+    "related_record_id": "LINE_2014"
+  },
+  {
+    "event_id": "HIST_10_B",
+    "account_id": "ACC_1010",
+    "line_id": "LINE_2014",
+    "event_type": "invoice_issued",
+    "occurred_at": "2026-09-01T00:00:00Z",
+    "summary": "August invoice issued.",
+    "related_record_id": "INV_1020"
+  },
+  {
+    "event_id": "HIST_10_C",
+    "account_id": "ACC_1010",
+    "line_id": "LINE_2014",
+    "event_type": "ticket_created",
+    "occurred_at": "2026-09-06T10:00:00Z",
+    "summary": "Support ticket created.",
+    "related_record_id": "TKT_7010"
+  },
+  {
+    "event_id": "EVT_TRAVEL_10",
+    "account_id": "ACC_1010",
+    "line_id": "LINE_2014",
+    "event_type": "roaming_pass_used",
+    "occurred_at": "2026-08-20T08:00:00Z",
+    "summary": "One fictional travel day pass used in Exampleland.",
+    "related_record_id": "INV_1020"
+  },
+  {
+    "event_id": "HIST_SUSPEND_15",
+    "account_id": "ACC_1010",
+    "line_id": "LINE_2015",
+    "event_type": "line_suspended",
+    "occurred_at": "2026-09-06T08:00:00Z",
+    "summary": "Historical simulated suspension recorded before the dataset snapshot.",
+    "related_record_id": "LINE_2015"
+  }
+]

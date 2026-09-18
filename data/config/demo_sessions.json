@@ -1,0 +1,65 @@
+{
+  "warning": "Test-harness mappings only. These IDs are not tokens and provide no authentication.",
+  "sessions": [
+    {
+      "session_fixture_id": "SESSION_01",
+      "principal_id": "DEMO_PRINCIPAL_1001",
+      "user_id": "USER_1001",
+      "account_id": "ACC_1001"
+    },
+    {
+      "session_fixture_id": "SESSION_02",
+      "principal_id": "DEMO_PRINCIPAL_1002",
+      "user_id": "USER_1002",
+      "account_id": "ACC_1002"
+    },
+    {
+      "session_fixture_id": "SESSION_03",
+      "principal_id": "DEMO_PRINCIPAL_1003",
+      "user_id": "USER_1003",
+      "account_id": "ACC_1003"
+    },
+    {
+      "session_fixture_id": "SESSION_04",
+      "principal_id": "DEMO_PRINCIPAL_1004",
+      "user_id": "USER_1004",
+      "account_id": "ACC_1004"
+    },
+    {
+      "session_fixture_id": "SESSION_05",
+      "principal_id": "DEMO_PRINCIPAL_1005",
+      "user_id": "USER_1005",
+      "account_id": "ACC_1005"
+    },
+    {
+      "session_fixture_id": "SESSION_06",
+      "principal_id": "DEMO_PRINCIPAL_1006",
+      "user_id": "USER_1006",
+      "account_id": "ACC_1006"
+    },
+    {
+      "session_fixture_id": "SESSION_07",
+      "principal_id": "DEMO_PRINCIPAL_1007",
+      "user_id": "USER_1007",
+      "account_id": "ACC_1007"
+    },
+    {
+      "session_fixture_id": "SESSION_08",
+      "principal_id": "DEMO_PRINCIPAL_1008",
+      "user_id": "USER_1008",
+      "account_id": "ACC_1008"
+    },
+    {
+      "session_fixture_id": "SESSION_09",
+      "principal_id": "DEMO_PRINCIPAL_1009",
+      "user_id": "USER_1009",
+      "account_id": "ACC_1009"
+    },
+    {
+      "session_fixture_id": "SESSION_10",
+      "principal_id": "DEMO_PRINCIPAL_1010",
+      "user_id": "USER_1010",
+      "account_id": "ACC_1010"
+    }
+  ]
+}

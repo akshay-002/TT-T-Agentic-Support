@@ -1,0 +1,47 @@
+[
+  {
+    "request_id": "CONN_001",
+    "account_id": "ACC_1001",
+    "requested_lines": 1,
+    "postal_code": "00001",
+    "selected_plan_id": "PLAN_03",
+    "status": "completed",
+    "created_at": "2026-06-25T09:00:00Z"
+  },
+  {
+    "request_id": "CONN_002",
+    "account_id": "ACC_1002",
+    "requested_lines": 1,
+    "postal_code": "00002",
+    "selected_plan_id": "PLAN_02",
+    "status": "completed",
+    "created_at": "2026-06-25T09:00:00Z"
+  },
+  {
+    "request_id": "CONN_003",
+    "account_id": "ACC_1003",
+    "requested_lines": 1,
+    "postal_code": "00003",
+    "selected_plan_id": "PLAN_03",
+    "status": "completed",
+    "created_at": "2026-06-25T09:00:00Z"
+  },
+  {
+    "request_id": "CONN_004",
+    "account_id": "ACC_1004",
+    "requested_lines": 1,
+    "postal_code": "00004",
+    "selected_plan_id": "PLAN_04",
+    "status": "completed",
+    "created_at": "2026-06-25T09:00:00Z"
+  },
+  {
+    "request_id": "CONN_005",
+    "account_id": "ACC_1005",
+    "requested_lines": 1,
+    "postal_code": "00005",
+    "selected_plan_id": "PLAN_05",
+    "status": "completed",
+    "created_at": "2026-06-25T09:00:00Z"
+  }
+]

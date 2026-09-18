@@ -1,0 +1,112 @@
+[
+  {
+    "run_id": "RUN_9001",
+    "account_id": "ACC_1001",
+    "principal_id": "DEMO_PRINCIPAL_1001",
+    "intent": "billing_explanation",
+    "status": "completed",
+    "started_at": "2026-09-07T11:00:00Z",
+    "completed_at": "2026-09-07T11:00:02Z",
+    "policy_version": "ttt-scope-v1",
+    "tool_call_count": 1
+  },
+  {
+    "run_id": "RUN_9002",
+    "account_id": "ACC_1002",
+    "principal_id": "DEMO_PRINCIPAL_1002",
+    "intent": "billing_explanation",
+    "status": "completed",
+    "started_at": "2026-09-07T11:00:00Z",
+    "completed_at": "2026-09-07T11:00:02Z",
+    "policy_version": "ttt-scope-v1",
+    "tool_call_count": 1
+  },
+  {
+    "run_id": "RUN_9003",
+    "account_id": "ACC_1003",
+    "principal_id": "DEMO_PRINCIPAL_1003",
+    "intent": "billing_explanation",
+    "status": "completed",
+    "started_at": "2026-09-07T11:00:00Z",
+    "completed_at": "2026-09-07T11:00:02Z",
+    "policy_version": "ttt-scope-v1",
+    "tool_call_count": 1
+  },
+  {
+    "run_id": "RUN_9004",
+    "account_id": "ACC_1004",
+    "principal_id": "DEMO_PRINCIPAL_1004",
+    "intent": "billing_explanation",
+    "status": "completed",
+    "started_at": "2026-09-07T11:00:00Z",
+    "completed_at": "2026-09-07T11:00:02Z",
+    "policy_version": "ttt-scope-v1",
+    "tool_call_count": 1
+  },
+  {
+    "run_id": "RUN_9005",
+    "account_id": "ACC_1005",
+    "principal_id": "DEMO_PRINCIPAL_1005",
+    "intent": "billing_explanation",
+    "status": "completed",
+    "started_at": "2026-09-07T11:00:00Z",
+    "completed_at": "2026-09-07T11:00:02Z",
+    "policy_version": "ttt-scope-v1",
+    "tool_call_count": 1
+  },
+  {
+    "run_id": "RUN_9006",
+    "account_id": "ACC_1006",
+    "principal_id": "DEMO_PRINCIPAL_1006",
+    "intent": "billing_explanation",
+    "status": "completed",
+    "started_at": "2026-09-07T11:00:00Z",
+    "completed_at": "2026-09-07T11:00:02Z",
+    "policy_version": "ttt-scope-v1",
+    "tool_call_count": 1
+  },
+  {
+    "run_id": "RUN_9007",
+    "account_id": "ACC_1007",
+    "principal_id": "DEMO_PRINCIPAL_1007",
+    "intent": "billing_explanation",
+    "status": "completed",
+    "started_at": "2026-09-07T11:00:00Z",
+    "completed_at": "2026-09-07T11:00:02Z",
+    "policy_version": "ttt-scope-v1",
+    "tool_call_count": 1
+  },
+  {
+    "run_id": "RUN_9008",
+    "account_id": "ACC_1008",
+    "principal_id": "DEMO_PRINCIPAL_1008",
+    "intent": "billing_explanation",
+    "status": "completed",
+    "started_at": "2026-09-07T11:00:00Z",
+    "completed_at": "2026-09-07T11:00:02Z",
+    "policy_version": "ttt-scope-v1",
+    "tool_call_count": 1
+  },
+  {
+    "run_id": "RUN_9009",
+    "account_id": "ACC_1009",
+    "principal_id": "DEMO_PRINCIPAL_1009",
+    "intent": "billing_explanation",
+    "status": "completed",
+    "started_at": "2026-09-07T11:00:00Z",
+    "completed_at": "2026-09-07T11:00:02Z",
+    "policy_version": "ttt-scope-v1",
+    "tool_call_count": 1
+  },
+  {
+    "run_id": "RUN_9010",
+    "account_id": "ACC_1010",
+    "principal_id": "DEMO_PRINCIPAL_1010",
+    "intent": "billing_explanation",
+    "status": "completed",
+    "started_at": "2026-09-07T11:00:00Z",
+    "completed_at": "2026-09-07T11:00:02Z",
+    "policy_version": "ttt-scope-v1",
+    "tool_call_count": 1
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "plan_id": "PLAN_01",
+    "name": "Essential 10",
+    "monthly_price_cents": 3000,
+    "data_allowance_mb": 10000,
+    "hotspot_allowance_mb": 2000,
+    "supports_5g": 1,
+    "plan_type": "postpaid",
+    "effective_from": "2026-01-01",
+    "effective_to": null
+  },
+  {
+    "plan_id": "PLAN_02",
+    "name": "Everyday Unlimited",
+    "monthly_price_cents": 5000,
+    "data_allowance_mb": null,
+    "hotspot_allowance_mb": 5000,
+    "supports_5g": 1,
+    "plan_type": "postpaid",
+    "effective_from": "2026-01-01",
+    "effective_to": null
+  },
+  {
+    "plan_id": "PLAN_03",
+    "name": "Plus Unlimited",
+    "monthly_price_cents": 7000,
+    "data_allowance_mb": null,
+    "hotspot_allowance_mb": 20000,
+    "supports_5g": 1,
+    "plan_type": "postpaid",
+    "effective_from": "2026-01-01",
+    "effective_to": null
+  },
+  {
+    "plan_id": "PLAN_04",
+    "name": "Family Flex",
+    "monthly_price_cents": 4000,
+    "data_allowance_mb": null,
+    "hotspot_allowance_mb": 10000,
+    "supports_5g": 1,
+    "plan_type": "postpaid",
+    "effective_from": "2026-01-01",
+    "effective_to": null
+  },
+  {
+    "plan_id": "PLAN_05",
+    "name": "Prepaid 5",
+    "monthly_price_cents": 2500,
+    "data_allowance_mb": 5000,
+    "hotspot_allowance_mb": 1000,
+    "supports_5g": 0,
+    "plan_type": "prepaid",
+    "effective_from": "2026-01-01",
+    "effective_to": null
+  }
+]

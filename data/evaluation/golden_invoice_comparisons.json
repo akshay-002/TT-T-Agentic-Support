@@ -1,0 +1,514 @@
+[
+  {
+    "account_id": "ACC_1001",
+    "previous_invoice_id": "INV_1001",
+    "current_invoice_id": "INV_1002",
+    "previous_total_cents": 7000,
+    "current_total_cents": 10500,
+    "delta_cents": 3500,
+    "currency": "USD",
+    "changes": [
+      {
+        "item_type": "plan_charge",
+        "previous_cents": 7000,
+        "current_cents": 7000,
+        "delta_cents": 0
+      },
+      {
+        "item_type": "activation_fee",
+        "previous_cents": 0,
+        "current_cents": 3500,
+        "delta_cents": 3500
+      }
+    ],
+    "source_item_ids": [
+      "ITEM_0001",
+      "ITEM_0002",
+      "ITEM_0003",
+      "ITEM_0004",
+      "ITEM_0005",
+      "ITEM_0006",
+      "ITEM_0007",
+      "ITEM_0008",
+      "ITEM_0009"
+    ]
+  },
+  {
+    "account_id": "ACC_1002",
+    "previous_invoice_id": "INV_1003",
+    "current_invoice_id": "INV_1004",
+    "previous_total_cents": 6000,
+    "current_total_cents": 9500,
+    "delta_cents": 3500,
+    "currency": "USD",
+    "changes": [
+      {
+        "item_type": "plan_charge",
+        "previous_cents": 5000,
+        "current_cents": 5000,
+        "delta_cents": 0
+      },
+      {
+        "item_type": "device_installment",
+        "previous_cents": 1000,
+        "current_cents": 1000,
+        "delta_cents": 0
+      },
+      {
+        "item_type": "promotion_credit",
+        "previous_cents": -500,
+        "current_cents": -500,
+        "delta_cents": 0
+      },
+      {
+        "item_type": "tax",
+        "previous_cents": 500,
+        "current_cents": 500,
+        "delta_cents": 0
+      },
+      {
+        "item_type": "activation_fee",
+        "previous_cents": 0,
+        "current_cents": 3500,
+        "delta_cents": 3500
+      }
+    ],
+    "source_item_ids": [
+      "ITEM_0010",
+      "ITEM_0011",
+      "ITEM_0012",
+      "ITEM_0013",
+      "ITEM_0014",
+      "ITEM_0015",
+      "ITEM_0016",
+      "ITEM_0017",
+      "ITEM_0018"
+    ]
+  },
+  {
+    "account_id": "ACC_1003",
+    "previous_invoice_id": "INV_1005",
+    "current_invoice_id": "INV_1006",
+    "previous_total_cents": 8000,
+    "current_total_cents": 11500,
+    "delta_cents": 3500,
+    "currency": "USD",
+    "changes": [
+      {
+        "item_type": "plan_charge",
+        "previous_cents": 7000,
+        "current_cents": 7000,
+        "delta_cents": 0
+      },
+      {
+        "item_type": "device_installment",
+        "previous_cents": 1000,
+        "current_cents": 1000,
+        "delta_cents": 0
+      },
+      {
+        "item_type": "promotion_credit",
+        "previous_cents": -500,
+        "current_cents": -500,
+        "delta_cents": 0
+      },
+      {
+        "item_type": "tax",
+        "previous_cents": 500,
+        "current_cents": 500,
+        "delta_cents": 0
+      },
+      {
+        "item_type": "activation_fee",
+        "previous_cents": 0,
+        "current_cents": 3500,
+        "delta_cents": 3500
+      }
+    ],
+    "source_item_ids": [
+      "ITEM_0019",
+      "ITEM_0020",
+      "ITEM_0021",
+      "ITEM_0022",
+      "ITEM_0023",
+      "ITEM_0024",
+      "ITEM_0025",
+      "ITEM_0026",
+      "ITEM_0027"
+    ]
+  },
+  {
+    "account_id": "ACC_1004",
+    "previous_invoice_id": "INV_1007",
+    "current_invoice_id": "INV_1008",
+    "previous_total_cents": 5000,
+    "current_total_cents": 8500,
+    "delta_cents": 3500,
+    "currency": "USD",
+    "changes": [
+      {
+        "item_type": "plan_charge",
+        "previous_cents": 4000,
+        "current_cents": 4000,
+        "delta_cents": 0
+      },
+      {
+        "item_type": "device_installment",
+        "previous_cents": 1000,
+        "current_cents": 1000,
+        "delta_cents": 0
+      },
+      {
+        "item_type": "promotion_credit",
+        "previous_cents": -500,
+        "current_cents": -500,
+        "delta_cents": 0
+      },
+      {
+        "item_type": "tax",
+        "previous_cents": 500,
+        "current_cents": 500,
+        "delta_cents": 0
+      },
+      {
+        "item_type": "activation_fee",
+        "previous_cents": 0,
+        "current_cents": 3500,
+        "delta_cents": 3500
+      }
+    ],
+    "source_item_ids": [
+      "ITEM_0028",
+      "ITEM_0029",
+      "ITEM_0030",
+      "ITEM_0031",
+      "ITEM_0032",
+      "ITEM_0033",
+      "ITEM_0034",
+      "ITEM_0035",
+      "ITEM_0036"
+    ]
+  },
+  {
+    "account_id": "ACC_1005",
+    "previous_invoice_id": "INV_1009",
+    "current_invoice_id": "INV_1010",
+    "previous_total_cents": 3500,
+    "current_total_cents": 7000,
+    "delta_cents": 3500,
+    "currency": "USD",
+    "changes": [
+      {
+        "item_type": "plan_charge",
+        "previous_cents": 2500,
+        "current_cents": 2500,
+        "delta_cents": 0
+      },
+      {
+        "item_type": "device_installment",
+        "previous_cents": 1000,
+        "current_cents": 1000,
+        "delta_cents": 0
+      },
+      {
+        "item_type": "promotion_credit",
+        "previous_cents": -500,
+        "current_cents": -500,
+        "delta_cents": 0
+      },
+      {
+        "item_type": "tax",
+        "previous_cents": 500,
+        "current_cents": 500,
+        "delta_cents": 0
+      },
+      {
+        "item_type": "activation_fee",
+        "previous_cents": 0,
+        "current_cents": 3500,
+        "delta_cents": 3500
+      }
+    ],
+    "source_item_ids": [
+      "ITEM_0037",
+      "ITEM_0038",
+      "ITEM_0039",
+      "ITEM_0040",
+      "ITEM_0041",
+      "ITEM_0042",
+      "ITEM_0043",
+      "ITEM_0044",
+      "ITEM_0045"
+    ]
+  },
+  {
+    "account_id": "ACC_1006",
+    "previous_invoice_id": "INV_1011",
+    "current_invoice_id": "INV_1012",
+    "previous_total_cents": 9000,
+    "current_total_cents": 10000,
+    "delta_cents": 1000,
+    "currency": "USD",
+    "changes": [
+      {
+        "item_type": "plan_charge",
+        "previous_cents": 8000,
+        "current_cents": 8000,
+        "delta_cents": 0
+      },
+      {
+        "item_type": "device_installment",
+        "previous_cents": 1000,
+        "current_cents": 1000,
+        "delta_cents": 0
+      },
+      {
+        "item_type": "promotion_credit",
+        "previous_cents": -500,
+        "current_cents": -500,
+        "delta_cents": 0
+      },
+      {
+        "item_type": "tax",
+        "previous_cents": 500,
+        "current_cents": 500,
+        "delta_cents": 0
+      },
+      {
+        "item_type": "roaming_pass",
+        "previous_cents": 0,
+        "current_cents": 1000,
+        "delta_cents": 1000
+      }
+    ],
+    "source_item_ids": [
+      "ITEM_0046",
+      "ITEM_0047",
+      "ITEM_0048",
+      "ITEM_0049",
+      "ITEM_0050",
+      "ITEM_0051",
+      "ITEM_0052",
+      "ITEM_0053",
+      "ITEM_0054",
+      "ITEM_0055",
+      "ITEM_0056"
+    ]
+  },
+  {
+    "account_id": "ACC_1007",
+    "previous_invoice_id": "INV_1013",
+    "current_invoice_id": "INV_1014",
+    "previous_total_cents": 13000,
+    "current_total_cents": 14000,
+    "delta_cents": 1000,
+    "currency": "USD",
+    "changes": [
+      {
+        "item_type": "plan_charge",
+        "previous_cents": 12000,
+        "current_cents": 12000,
+        "delta_cents": 0
+      },
+      {
+        "item_type": "device_installment",
+        "previous_cents": 1000,
+        "current_cents": 1000,
+        "delta_cents": 0
+      },
+      {
+        "item_type": "promotion_credit",
+        "previous_cents": -500,
+        "current_cents": -500,
+        "delta_cents": 0
+      },
+      {
+        "item_type": "tax",
+        "previous_cents": 500,
+        "current_cents": 500,
+        "delta_cents": 0
+      },
+      {
+        "item_type": "roaming_pass",
+        "previous_cents": 0,
+        "current_cents": 1000,
+        "delta_cents": 1000
+      }
+    ],
+    "source_item_ids": [
+      "ITEM_0057",
+      "ITEM_0058",
+      "ITEM_0059",
+      "ITEM_0060",
+      "ITEM_0061",
+      "ITEM_0062",
+      "ITEM_0063",
+      "ITEM_0064",
+      "ITEM_0065",
+      "ITEM_0066",
+      "ITEM_0067"
+    ]
+  },
+  {
+    "account_id": "ACC_1008",
+    "previous_invoice_id": "INV_1015",
+    "current_invoice_id": "INV_1016",
+    "previous_total_cents": 12000,
+    "current_total_cents": 13000,
+    "delta_cents": 1000,
+    "currency": "USD",
+    "changes": [
+      {
+        "item_type": "plan_charge",
+        "previous_cents": 11000,
+        "current_cents": 11000,
+        "delta_cents": 0
+      },
+      {
+        "item_type": "device_installment",
+        "previous_cents": 1000,
+        "current_cents": 1000,
+        "delta_cents": 0
+      },
+      {
+        "item_type": "promotion_credit",
+        "previous_cents": -500,
+        "current_cents": -500,
+        "delta_cents": 0
+      },
+      {
+        "item_type": "tax",
+        "previous_cents": 500,
+        "current_cents": 500,
+        "delta_cents": 0
+      },
+      {
+        "item_type": "roaming_pass",
+        "previous_cents": 0,
+        "current_cents": 1000,
+        "delta_cents": 1000
+      }
+    ],
+    "source_item_ids": [
+      "ITEM_0068",
+      "ITEM_0069",
+      "ITEM_0070",
+      "ITEM_0071",
+      "ITEM_0072",
+      "ITEM_0073",
+      "ITEM_0074",
+      "ITEM_0075",
+      "ITEM_0076",
+      "ITEM_0077",
+      "ITEM_0078"
+    ]
+  },
+  {
+    "account_id": "ACC_1009",
+    "previous_invoice_id": "INV_1017",
+    "current_invoice_id": "INV_1018",
+    "previous_total_cents": 7500,
+    "current_total_cents": 8500,
+    "delta_cents": 1000,
+    "currency": "USD",
+    "changes": [
+      {
+        "item_type": "plan_charge",
+        "previous_cents": 6500,
+        "current_cents": 6500,
+        "delta_cents": 0
+      },
+      {
+        "item_type": "device_installment",
+        "previous_cents": 1000,
+        "current_cents": 1000,
+        "delta_cents": 0
+      },
+      {
+        "item_type": "promotion_credit",
+        "previous_cents": -500,
+        "current_cents": -500,
+        "delta_cents": 0
+      },
+      {
+        "item_type": "tax",
+        "previous_cents": 500,
+        "current_cents": 500,
+        "delta_cents": 0
+      },
+      {
+        "item_type": "roaming_pass",
+        "previous_cents": 0,
+        "current_cents": 1000,
+        "delta_cents": 1000
+      }
+    ],
+    "source_item_ids": [
+      "ITEM_0079",
+      "ITEM_0080",
+      "ITEM_0081",
+      "ITEM_0082",
+      "ITEM_0083",
+      "ITEM_0084",
+      "ITEM_0085",
+      "ITEM_0086",
+      "ITEM_0087",
+      "ITEM_0088",
+      "ITEM_0089"
+    ]
+  },
+  {
+    "account_id": "ACC_1010",
+    "previous_invoice_id": "INV_1019",
+    "current_invoice_id": "INV_1020",
+    "previous_total_cents": 6500,
+    "current_total_cents": 7500,
+    "delta_cents": 1000,
+    "currency": "USD",
+    "changes": [
+      {
+        "item_type": "plan_charge",
+        "previous_cents": 5500,
+        "current_cents": 5500,
+        "delta_cents": 0
+      },
+      {
+        "item_type": "device_installment",
+        "previous_cents": 1000,
+        "current_cents": 1000,
+        "delta_cents": 0
+      },
+      {
+        "item_type": "promotion_credit",
+        "previous_cents": -500,
+        "current_cents": -500,
+        "delta_cents": 0
+      },
+      {
+        "item_type": "tax",
+        "previous_cents": 500,
+        "current_cents": 500,
+        "delta_cents": 0
+      },
+      {
+        "item_type": "roaming_pass",
+        "previous_cents": 0,
+        "current_cents": 1000,
+        "delta_cents": 1000
+      }
+    ],
+    "source_item_ids": [
+      "ITEM_0090",
+      "ITEM_0091",
+      "ITEM_0092",
+      "ITEM_0093",
+      "ITEM_0094",
+      "ITEM_0095",
+      "ITEM_0096",
+      "ITEM_0097",
+      "ITEM_0098",
+      "ITEM_0099",
+      "ITEM_0100"
+    ]
+  }
+]

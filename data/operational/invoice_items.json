@@ -1,0 +1,1002 @@
+[
+  {
+    "item_id": "ITEM_0001",
+    "invoice_id": "INV_1001",
+    "line_id": "LINE_2001",
+    "item_type": "plan_charge",
+    "description": "Plus Unlimited monthly service",
+    "amount_cents": 7000,
+    "policy_id": "PLAN-CATALOG-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0002",
+    "invoice_id": "INV_1001",
+    "line_id": "LINE_2001",
+    "item_type": "device_installment",
+    "description": "Device installment subtotal",
+    "amount_cents": 0,
+    "policy_id": "DEVICE-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0003",
+    "invoice_id": "INV_1001",
+    "line_id": null,
+    "item_type": "promotion_credit",
+    "description": "Fixture account promotion",
+    "amount_cents": 0,
+    "policy_id": "BILL-PROMO-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0004",
+    "invoice_id": "INV_1001",
+    "line_id": null,
+    "item_type": "tax",
+    "description": "Fixed simulated tax adjustment",
+    "amount_cents": 0,
+    "policy_id": "BILL-TAX-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0005",
+    "invoice_id": "INV_1002",
+    "line_id": "LINE_2001",
+    "item_type": "plan_charge",
+    "description": "Plus Unlimited monthly service",
+    "amount_cents": 7000,
+    "policy_id": "PLAN-CATALOG-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0006",
+    "invoice_id": "INV_1002",
+    "line_id": "LINE_2001",
+    "item_type": "device_installment",
+    "description": "Device installment subtotal",
+    "amount_cents": 0,
+    "policy_id": "DEVICE-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0007",
+    "invoice_id": "INV_1002",
+    "line_id": null,
+    "item_type": "promotion_credit",
+    "description": "Fixture account promotion",
+    "amount_cents": 0,
+    "policy_id": "BILL-PROMO-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0008",
+    "invoice_id": "INV_1002",
+    "line_id": null,
+    "item_type": "tax",
+    "description": "Fixed simulated tax adjustment",
+    "amount_cents": 0,
+    "policy_id": "BILL-TAX-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0009",
+    "invoice_id": "INV_1002",
+    "line_id": "LINE_2001",
+    "item_type": "activation_fee",
+    "description": "Activation fee posted one cycle after July activation",
+    "amount_cents": 3500,
+    "policy_id": "BILL-ACT-01",
+    "service_event_id": "ACT_6001"
+  },
+  {
+    "item_id": "ITEM_0010",
+    "invoice_id": "INV_1003",
+    "line_id": "LINE_2002",
+    "item_type": "plan_charge",
+    "description": "Everyday Unlimited monthly service",
+    "amount_cents": 5000,
+    "policy_id": "PLAN-CATALOG-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0011",
+    "invoice_id": "INV_1003",
+    "line_id": "LINE_2002",
+    "item_type": "device_installment",
+    "description": "Device installment subtotal",
+    "amount_cents": 1000,
+    "policy_id": "DEVICE-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0012",
+    "invoice_id": "INV_1003",
+    "line_id": null,
+    "item_type": "promotion_credit",
+    "description": "Fixture account promotion",
+    "amount_cents": -500,
+    "policy_id": "BILL-PROMO-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0013",
+    "invoice_id": "INV_1003",
+    "line_id": null,
+    "item_type": "tax",
+    "description": "Fixed simulated tax adjustment",
+    "amount_cents": 500,
+    "policy_id": "BILL-TAX-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0014",
+    "invoice_id": "INV_1004",
+    "line_id": "LINE_2002",
+    "item_type": "plan_charge",
+    "description": "Everyday Unlimited monthly service",
+    "amount_cents": 5000,
+    "policy_id": "PLAN-CATALOG-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0015",
+    "invoice_id": "INV_1004",
+    "line_id": "LINE_2002",
+    "item_type": "device_installment",
+    "description": "Device installment subtotal",
+    "amount_cents": 1000,
+    "policy_id": "DEVICE-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0016",
+    "invoice_id": "INV_1004",
+    "line_id": null,
+    "item_type": "promotion_credit",
+    "description": "Fixture account promotion",
+    "amount_cents": -500,
+    "policy_id": "BILL-PROMO-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0017",
+    "invoice_id": "INV_1004",
+    "line_id": null,
+    "item_type": "tax",
+    "description": "Fixed simulated tax adjustment",
+    "amount_cents": 500,
+    "policy_id": "BILL-TAX-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0018",
+    "invoice_id": "INV_1004",
+    "line_id": "LINE_2002",
+    "item_type": "activation_fee",
+    "description": "Activation fee posted one cycle after July activation",
+    "amount_cents": 3500,
+    "policy_id": "BILL-ACT-01",
+    "service_event_id": "ACT_6002"
+  },
+  {
+    "item_id": "ITEM_0019",
+    "invoice_id": "INV_1005",
+    "line_id": "LINE_2003",
+    "item_type": "plan_charge",
+    "description": "Plus Unlimited monthly service",
+    "amount_cents": 7000,
+    "policy_id": "PLAN-CATALOG-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0020",
+    "invoice_id": "INV_1005",
+    "line_id": "LINE_2003",
+    "item_type": "device_installment",
+    "description": "Device installment subtotal",
+    "amount_cents": 1000,
+    "policy_id": "DEVICE-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0021",
+    "invoice_id": "INV_1005",
+    "line_id": null,
+    "item_type": "promotion_credit",
+    "description": "Fixture account promotion",
+    "amount_cents": -500,
+    "policy_id": "BILL-PROMO-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0022",
+    "invoice_id": "INV_1005",
+    "line_id": null,
+    "item_type": "tax",
+    "description": "Fixed simulated tax adjustment",
+    "amount_cents": 500,
+    "policy_id": "BILL-TAX-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0023",
+    "invoice_id": "INV_1006",
+    "line_id": "LINE_2003",
+    "item_type": "plan_charge",
+    "description": "Plus Unlimited monthly service",
+    "amount_cents": 7000,
+    "policy_id": "PLAN-CATALOG-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0024",
+    "invoice_id": "INV_1006",
+    "line_id": "LINE_2003",
+    "item_type": "device_installment",
+    "description": "Device installment subtotal",
+    "amount_cents": 1000,
+    "policy_id": "DEVICE-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0025",
+    "invoice_id": "INV_1006",
+    "line_id": null,
+    "item_type": "promotion_credit",
+    "description": "Fixture account promotion",
+    "amount_cents": -500,
+    "policy_id": "BILL-PROMO-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0026",
+    "invoice_id": "INV_1006",
+    "line_id": null,
+    "item_type": "tax",
+    "description": "Fixed simulated tax adjustment",
+    "amount_cents": 500,
+    "policy_id": "BILL-TAX-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0027",
+    "invoice_id": "INV_1006",
+    "line_id": "LINE_2003",
+    "item_type": "activation_fee",
+    "description": "Activation fee posted one cycle after July activation",
+    "amount_cents": 3500,
+    "policy_id": "BILL-ACT-01",
+    "service_event_id": "ACT_6003"
+  },
+  {
+    "item_id": "ITEM_0028",
+    "invoice_id": "INV_1007",
+    "line_id": "LINE_2004",
+    "item_type": "plan_charge",
+    "description": "Family Flex monthly service",
+    "amount_cents": 4000,
+    "policy_id": "PLAN-CATALOG-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0029",
+    "invoice_id": "INV_1007",
+    "line_id": "LINE_2004",
+    "item_type": "device_installment",
+    "description": "Device installment subtotal",
+    "amount_cents": 1000,
+    "policy_id": "DEVICE-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0030",
+    "invoice_id": "INV_1007",
+    "line_id": null,
+    "item_type": "promotion_credit",
+    "description": "Fixture account promotion",
+    "amount_cents": -500,
+    "policy_id": "BILL-PROMO-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0031",
+    "invoice_id": "INV_1007",
+    "line_id": null,
+    "item_type": "tax",
+    "description": "Fixed simulated tax adjustment",
+    "amount_cents": 500,
+    "policy_id": "BILL-TAX-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0032",
+    "invoice_id": "INV_1008",
+    "line_id": "LINE_2004",
+    "item_type": "plan_charge",
+    "description": "Family Flex monthly service",
+    "amount_cents": 4000,
+    "policy_id": "PLAN-CATALOG-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0033",
+    "invoice_id": "INV_1008",
+    "line_id": "LINE_2004",
+    "item_type": "device_installment",
+    "description": "Device installment subtotal",
+    "amount_cents": 1000,
+    "policy_id": "DEVICE-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0034",
+    "invoice_id": "INV_1008",
+    "line_id": null,
+    "item_type": "promotion_credit",
+    "description": "Fixture account promotion",
+    "amount_cents": -500,
+    "policy_id": "BILL-PROMO-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0035",
+    "invoice_id": "INV_1008",
+    "line_id": null,
+    "item_type": "tax",
+    "description": "Fixed simulated tax adjustment",
+    "amount_cents": 500,
+    "policy_id": "BILL-TAX-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0036",
+    "invoice_id": "INV_1008",
+    "line_id": "LINE_2004",
+    "item_type": "activation_fee",
+    "description": "Activation fee posted one cycle after July activation",
+    "amount_cents": 3500,
+    "policy_id": "BILL-ACT-01",
+    "service_event_id": "ACT_6004"
+  },
+  {
+    "item_id": "ITEM_0037",
+    "invoice_id": "INV_1009",
+    "line_id": "LINE_2005",
+    "item_type": "plan_charge",
+    "description": "Prepaid 5 monthly service",
+    "amount_cents": 2500,
+    "policy_id": "PLAN-CATALOG-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0038",
+    "invoice_id": "INV_1009",
+    "line_id": "LINE_2005",
+    "item_type": "device_installment",
+    "description": "Device installment subtotal",
+    "amount_cents": 1000,
+    "policy_id": "DEVICE-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0039",
+    "invoice_id": "INV_1009",
+    "line_id": null,
+    "item_type": "promotion_credit",
+    "description": "Fixture account promotion",
+    "amount_cents": -500,
+    "policy_id": "BILL-PROMO-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0040",
+    "invoice_id": "INV_1009",
+    "line_id": null,
+    "item_type": "tax",
+    "description": "Fixed simulated tax adjustment",
+    "amount_cents": 500,
+    "policy_id": "BILL-TAX-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0041",
+    "invoice_id": "INV_1010",
+    "line_id": "LINE_2005",
+    "item_type": "plan_charge",
+    "description": "Prepaid 5 monthly service",
+    "amount_cents": 2500,
+    "policy_id": "PLAN-CATALOG-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0042",
+    "invoice_id": "INV_1010",
+    "line_id": "LINE_2005",
+    "item_type": "device_installment",
+    "description": "Device installment subtotal",
+    "amount_cents": 1000,
+    "policy_id": "DEVICE-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0043",
+    "invoice_id": "INV_1010",
+    "line_id": null,
+    "item_type": "promotion_credit",
+    "description": "Fixture account promotion",
+    "amount_cents": -500,
+    "policy_id": "BILL-PROMO-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0044",
+    "invoice_id": "INV_1010",
+    "line_id": null,
+    "item_type": "tax",
+    "description": "Fixed simulated tax adjustment",
+    "amount_cents": 500,
+    "policy_id": "BILL-TAX-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0045",
+    "invoice_id": "INV_1010",
+    "line_id": "LINE_2005",
+    "item_type": "activation_fee",
+    "description": "Activation fee posted one cycle after July activation",
+    "amount_cents": 3500,
+    "policy_id": "BILL-ACT-01",
+    "service_event_id": "ACT_6005"
+  },
+  {
+    "item_id": "ITEM_0046",
+    "invoice_id": "INV_1011",
+    "line_id": "LINE_2006",
+    "item_type": "plan_charge",
+    "description": "Essential 10 monthly service",
+    "amount_cents": 3000,
+    "policy_id": "PLAN-CATALOG-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0047",
+    "invoice_id": "INV_1011",
+    "line_id": "LINE_2007",
+    "item_type": "plan_charge",
+    "description": "Everyday Unlimited monthly service",
+    "amount_cents": 5000,
+    "policy_id": "PLAN-CATALOG-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0048",
+    "invoice_id": "INV_1011",
+    "line_id": "LINE_2006",
+    "item_type": "device_installment",
+    "description": "Device installment subtotal",
+    "amount_cents": 1000,
+    "policy_id": "DEVICE-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0049",
+    "invoice_id": "INV_1011",
+    "line_id": null,
+    "item_type": "promotion_credit",
+    "description": "Fixture account promotion",
+    "amount_cents": -500,
+    "policy_id": "BILL-PROMO-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0050",
+    "invoice_id": "INV_1011",
+    "line_id": null,
+    "item_type": "tax",
+    "description": "Fixed simulated tax adjustment",
+    "amount_cents": 500,
+    "policy_id": "BILL-TAX-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0051",
+    "invoice_id": "INV_1012",
+    "line_id": "LINE_2006",
+    "item_type": "plan_charge",
+    "description": "Essential 10 monthly service",
+    "amount_cents": 3000,
+    "policy_id": "PLAN-CATALOG-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0052",
+    "invoice_id": "INV_1012",
+    "line_id": "LINE_2007",
+    "item_type": "plan_charge",
+    "description": "Everyday Unlimited monthly service",
+    "amount_cents": 5000,
+    "policy_id": "PLAN-CATALOG-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0053",
+    "invoice_id": "INV_1012",
+    "line_id": "LINE_2006",
+    "item_type": "device_installment",
+    "description": "Device installment subtotal",
+    "amount_cents": 1000,
+    "policy_id": "DEVICE-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0054",
+    "invoice_id": "INV_1012",
+    "line_id": null,
+    "item_type": "promotion_credit",
+    "description": "Fixture account promotion",
+    "amount_cents": -500,
+    "policy_id": "BILL-PROMO-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0055",
+    "invoice_id": "INV_1012",
+    "line_id": null,
+    "item_type": "tax",
+    "description": "Fixed simulated tax adjustment",
+    "amount_cents": 500,
+    "policy_id": "BILL-TAX-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0056",
+    "invoice_id": "INV_1012",
+    "line_id": "LINE_2006",
+    "item_type": "roaming_pass",
+    "description": "One simulated travel day pass",
+    "amount_cents": 1000,
+    "policy_id": "INTL-01",
+    "service_event_id": "EVT_TRAVEL_6"
+  },
+  {
+    "item_id": "ITEM_0057",
+    "invoice_id": "INV_1013",
+    "line_id": "LINE_2008",
+    "item_type": "plan_charge",
+    "description": "Everyday Unlimited monthly service",
+    "amount_cents": 5000,
+    "policy_id": "PLAN-CATALOG-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0058",
+    "invoice_id": "INV_1013",
+    "line_id": "LINE_2009",
+    "item_type": "plan_charge",
+    "description": "Plus Unlimited monthly service",
+    "amount_cents": 7000,
+    "policy_id": "PLAN-CATALOG-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0059",
+    "invoice_id": "INV_1013",
+    "line_id": "LINE_2008",
+    "item_type": "device_installment",
+    "description": "Device installment subtotal",
+    "amount_cents": 1000,
+    "policy_id": "DEVICE-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0060",
+    "invoice_id": "INV_1013",
+    "line_id": null,
+    "item_type": "promotion_credit",
+    "description": "Fixture account promotion",
+    "amount_cents": -500,
+    "policy_id": "BILL-PROMO-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0061",
+    "invoice_id": "INV_1013",
+    "line_id": null,
+    "item_type": "tax",
+    "description": "Fixed simulated tax adjustment",
+    "amount_cents": 500,
+    "policy_id": "BILL-TAX-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0062",
+    "invoice_id": "INV_1014",
+    "line_id": "LINE_2008",
+    "item_type": "plan_charge",
+    "description": "Everyday Unlimited monthly service",
+    "amount_cents": 5000,
+    "policy_id": "PLAN-CATALOG-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0063",
+    "invoice_id": "INV_1014",
+    "line_id": "LINE_2009",
+    "item_type": "plan_charge",
+    "description": "Plus Unlimited monthly service",
+    "amount_cents": 7000,
+    "policy_id": "PLAN-CATALOG-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0064",
+    "invoice_id": "INV_1014",
+    "line_id": "LINE_2008",
+    "item_type": "device_installment",
+    "description": "Device installment subtotal",
+    "amount_cents": 1000,
+    "policy_id": "DEVICE-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0065",
+    "invoice_id": "INV_1014",
+    "line_id": null,
+    "item_type": "promotion_credit",
+    "description": "Fixture account promotion",
+    "amount_cents": -500,
+    "policy_id": "BILL-PROMO-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0066",
+    "invoice_id": "INV_1014",
+    "line_id": null,
+    "item_type": "tax",
+    "description": "Fixed simulated tax adjustment",
+    "amount_cents": 500,
+    "policy_id": "BILL-TAX-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0067",
+    "invoice_id": "INV_1014",
+    "line_id": "LINE_2008",
+    "item_type": "roaming_pass",
+    "description": "One simulated travel day pass",
+    "amount_cents": 1000,
+    "policy_id": "INTL-01",
+    "service_event_id": "EVT_TRAVEL_7"
+  },
+  {
+    "item_id": "ITEM_0068",
+    "invoice_id": "INV_1015",
+    "line_id": "LINE_2010",
+    "item_type": "plan_charge",
+    "description": "Plus Unlimited monthly service",
+    "amount_cents": 7000,
+    "policy_id": "PLAN-CATALOG-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0069",
+    "invoice_id": "INV_1015",
+    "line_id": "LINE_2011",
+    "item_type": "plan_charge",
+    "description": "Family Flex monthly service",
+    "amount_cents": 4000,
+    "policy_id": "PLAN-CATALOG-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0070",
+    "invoice_id": "INV_1015",
+    "line_id": "LINE_2010",
+    "item_type": "device_installment",
+    "description": "Device installment subtotal",
+    "amount_cents": 1000,
+    "policy_id": "DEVICE-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0071",
+    "invoice_id": "INV_1015",
+    "line_id": null,
+    "item_type": "promotion_credit",
+    "description": "Fixture account promotion",
+    "amount_cents": -500,
+    "policy_id": "BILL-PROMO-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0072",
+    "invoice_id": "INV_1015",
+    "line_id": null,
+    "item_type": "tax",
+    "description": "Fixed simulated tax adjustment",
+    "amount_cents": 500,
+    "policy_id": "BILL-TAX-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0073",
+    "invoice_id": "INV_1016",
+    "line_id": "LINE_2010",
+    "item_type": "plan_charge",
+    "description": "Plus Unlimited monthly service",
+    "amount_cents": 7000,
+    "policy_id": "PLAN-CATALOG-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0074",
+    "invoice_id": "INV_1016",
+    "line_id": "LINE_2011",
+    "item_type": "plan_charge",
+    "description": "Family Flex monthly service",
+    "amount_cents": 4000,
+    "policy_id": "PLAN-CATALOG-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0075",
+    "invoice_id": "INV_1016",
+    "line_id": "LINE_2010",
+    "item_type": "device_installment",
+    "description": "Device installment subtotal",
+    "amount_cents": 1000,
+    "policy_id": "DEVICE-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0076",
+    "invoice_id": "INV_1016",
+    "line_id": null,
+    "item_type": "promotion_credit",
+    "description": "Fixture account promotion",
+    "amount_cents": -500,
+    "policy_id": "BILL-PROMO-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0077",
+    "invoice_id": "INV_1016",
+    "line_id": null,
+    "item_type": "tax",
+    "description": "Fixed simulated tax adjustment",
+    "amount_cents": 500,
+    "policy_id": "BILL-TAX-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0078",
+    "invoice_id": "INV_1016",
+    "line_id": "LINE_2010",
+    "item_type": "roaming_pass",
+    "description": "One simulated travel day pass",
+    "amount_cents": 1000,
+    "policy_id": "INTL-01",
+    "service_event_id": "EVT_TRAVEL_8"
+  },
+  {
+    "item_id": "ITEM_0079",
+    "invoice_id": "INV_1017",
+    "line_id": "LINE_2012",
+    "item_type": "plan_charge",
+    "description": "Family Flex monthly service",
+    "amount_cents": 4000,
+    "policy_id": "PLAN-CATALOG-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0080",
+    "invoice_id": "INV_1017",
+    "line_id": "LINE_2013",
+    "item_type": "plan_charge",
+    "description": "Prepaid 5 monthly service",
+    "amount_cents": 2500,
+    "policy_id": "PLAN-CATALOG-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0081",
+    "invoice_id": "INV_1017",
+    "line_id": "LINE_2012",
+    "item_type": "device_installment",
+    "description": "Device installment subtotal",
+    "amount_cents": 1000,
+    "policy_id": "DEVICE-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0082",
+    "invoice_id": "INV_1017",
+    "line_id": null,
+    "item_type": "promotion_credit",
+    "description": "Fixture account promotion",
+    "amount_cents": -500,
+    "policy_id": "BILL-PROMO-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0083",
+    "invoice_id": "INV_1017",
+    "line_id": null,
+    "item_type": "tax",
+    "description": "Fixed simulated tax adjustment",
+    "amount_cents": 500,
+    "policy_id": "BILL-TAX-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0084",
+    "invoice_id": "INV_1018",
+    "line_id": "LINE_2012",
+    "item_type": "plan_charge",
+    "description": "Family Flex monthly service",
+    "amount_cents": 4000,
+    "policy_id": "PLAN-CATALOG-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0085",
+    "invoice_id": "INV_1018",
+    "line_id": "LINE_2013",
+    "item_type": "plan_charge",
+    "description": "Prepaid 5 monthly service",
+    "amount_cents": 2500,
+    "policy_id": "PLAN-CATALOG-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0086",
+    "invoice_id": "INV_1018",
+    "line_id": "LINE_2012",
+    "item_type": "device_installment",
+    "description": "Device installment subtotal",
+    "amount_cents": 1000,
+    "policy_id": "DEVICE-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0087",
+    "invoice_id": "INV_1018",
+    "line_id": null,
+    "item_type": "promotion_credit",
+    "description": "Fixture account promotion",
+    "amount_cents": -500,
+    "policy_id": "BILL-PROMO-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0088",
+    "invoice_id": "INV_1018",
+    "line_id": null,
+    "item_type": "tax",
+    "description": "Fixed simulated tax adjustment",
+    "amount_cents": 500,
+    "policy_id": "BILL-TAX-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0089",
+    "invoice_id": "INV_1018",
+    "line_id": "LINE_2012",
+    "item_type": "roaming_pass",
+    "description": "One simulated travel day pass",
+    "amount_cents": 1000,
+    "policy_id": "INTL-01",
+    "service_event_id": "EVT_TRAVEL_9"
+  },
+  {
+    "item_id": "ITEM_0090",
+    "invoice_id": "INV_1019",
+    "line_id": "LINE_2014",
+    "item_type": "plan_charge",
+    "description": "Prepaid 5 monthly service",
+    "amount_cents": 2500,
+    "policy_id": "PLAN-CATALOG-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0091",
+    "invoice_id": "INV_1019",
+    "line_id": "LINE_2015",
+    "item_type": "plan_charge",
+    "description": "Essential 10 monthly service",
+    "amount_cents": 3000,
+    "policy_id": "PLAN-CATALOG-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0092",
+    "invoice_id": "INV_1019",
+    "line_id": "LINE_2014",
+    "item_type": "device_installment",
+    "description": "Device installment subtotal",
+    "amount_cents": 1000,
+    "policy_id": "DEVICE-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0093",
+    "invoice_id": "INV_1019",
+    "line_id": null,
+    "item_type": "promotion_credit",
+    "description": "Fixture account promotion",
+    "amount_cents": -500,
+    "policy_id": "BILL-PROMO-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0094",
+    "invoice_id": "INV_1019",
+    "line_id": null,
+    "item_type": "tax",
+    "description": "Fixed simulated tax adjustment",
+    "amount_cents": 500,
+    "policy_id": "BILL-TAX-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0095",
+    "invoice_id": "INV_1020",
+    "line_id": "LINE_2014",
+    "item_type": "plan_charge",
+    "description": "Prepaid 5 monthly service",
+    "amount_cents": 2500,
+    "policy_id": "PLAN-CATALOG-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0096",
+    "invoice_id": "INV_1020",
+    "line_id": "LINE_2015",
+    "item_type": "plan_charge",
+    "description": "Essential 10 monthly service",
+    "amount_cents": 3000,
+    "policy_id": "PLAN-CATALOG-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0097",
+    "invoice_id": "INV_1020",
+    "line_id": "LINE_2014",
+    "item_type": "device_installment",
+    "description": "Device installment subtotal",
+    "amount_cents": 1000,
+    "policy_id": "DEVICE-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0098",
+    "invoice_id": "INV_1020",
+    "line_id": null,
+    "item_type": "promotion_credit",
+    "description": "Fixture account promotion",
+    "amount_cents": -500,
+    "policy_id": "BILL-PROMO-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0099",
+    "invoice_id": "INV_1020",
+    "line_id": null,
+    "item_type": "tax",
+    "description": "Fixed simulated tax adjustment",
+    "amount_cents": 500,
+    "policy_id": "BILL-TAX-01",
+    "service_event_id": null
+  },
+  {
+    "item_id": "ITEM_0100",
+    "invoice_id": "INV_1020",
+    "line_id": "LINE_2014",
+    "item_type": "roaming_pass",
+    "description": "One simulated travel day pass",
+    "amount_cents": 1000,
+    "policy_id": "INTL-01",
+    "service_event_id": "EVT_TRAVEL_10"
+  }
+]

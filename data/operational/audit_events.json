@@ -1,0 +1,242 @@
+[
+  {
+    "audit_id": "AUD_01_1",
+    "run_id": "RUN_9001",
+    "account_id": "ACC_1001",
+    "event_type": "scope_decision",
+    "reason_code": "ALLOW_BILLING",
+    "occurred_at": "2026-09-07T11:00:00Z"
+  },
+  {
+    "audit_id": "AUD_01_2",
+    "run_id": "RUN_9001",
+    "account_id": "ACC_1001",
+    "event_type": "tool_result",
+    "reason_code": "OWNERSHIP_VERIFIED",
+    "occurred_at": "2026-09-07T11:00:01Z"
+  },
+  {
+    "audit_id": "AUD_01_3",
+    "run_id": "RUN_9001",
+    "account_id": "ACC_1001",
+    "event_type": "output_decision",
+    "reason_code": "ALLOW_SUPPORTED_ANSWER",
+    "occurred_at": "2026-09-07T11:00:02Z"
+  },
+  {
+    "audit_id": "AUD_02_1",
+    "run_id": "RUN_9002",
+    "account_id": "ACC_1002",
+    "event_type": "scope_decision",
+    "reason_code": "ALLOW_BILLING",
+    "occurred_at": "2026-09-07T11:00:00Z"
+  },
+  {
+    "audit_id": "AUD_02_2",
+    "run_id": "RUN_9002",
+    "account_id": "ACC_1002",
+    "event_type": "tool_result",
+    "reason_code": "OWNERSHIP_VERIFIED",
+    "occurred_at": "2026-09-07T11:00:01Z"
+  },
+  {
+    "audit_id": "AUD_02_3",
+    "run_id": "RUN_9002",
+    "account_id": "ACC_1002",
+    "event_type": "output_decision",
+    "reason_code": "ALLOW_SUPPORTED_ANSWER",
+    "occurred_at": "2026-09-07T11:00:02Z"
+  },
+  {
+    "audit_id": "AUD_03_1",
+    "run_id": "RUN_9003",
+    "account_id": "ACC_1003",
+    "event_type": "scope_decision",
+    "reason_code": "ALLOW_BILLING",
+    "occurred_at": "2026-09-07T11:00:00Z"
+  },
+  {
+    "audit_id": "AUD_03_2",
+    "run_id": "RUN_9003",
+    "account_id": "ACC_1003",
+    "event_type": "tool_result",
+    "reason_code": "OWNERSHIP_VERIFIED",
+    "occurred_at": "2026-09-07T11:00:01Z"
+  },
+  {
+    "audit_id": "AUD_03_3",
+    "run_id": "RUN_9003",
+    "account_id": "ACC_1003",
+    "event_type": "output_decision",
+    "reason_code": "ALLOW_SUPPORTED_ANSWER",
+    "occurred_at": "2026-09-07T11:00:02Z"
+  },
+  {
+    "audit_id": "AUD_04_1",
+    "run_id": "RUN_9004",
+    "account_id": "ACC_1004",
+    "event_type": "scope_decision",
+    "reason_code": "ALLOW_BILLING",
+    "occurred_at": "2026-09-07T11:00:00Z"
+  },
+  {
+    "audit_id": "AUD_04_2",
+    "run_id": "RUN_9004",
+    "account_id": "ACC_1004",
+    "event_type": "tool_result",
+    "reason_code": "OWNERSHIP_VERIFIED",
+    "occurred_at": "2026-09-07T11:00:01Z"
+  },
+  {
+    "audit_id": "AUD_04_3",
+    "run_id": "RUN_9004",
+    "account_id": "ACC_1004",
+    "event_type": "output_decision",
+    "reason_code": "ALLOW_SUPPORTED_ANSWER",
+    "occurred_at": "2026-09-07T11:00:02Z"
+  },
+  {
+    "audit_id": "AUD_05_1",
+    "run_id": "RUN_9005",
+    "account_id": "ACC_1005",
+    "event_type": "scope_decision",
+    "reason_code": "ALLOW_BILLING",
+    "occurred_at": "2026-09-07T11:00:00Z"
+  },
+  {
+    "audit_id": "AUD_05_2",
+    "run_id": "RUN_9005",
+    "account_id": "ACC_1005",
+    "event_type": "tool_result",
+    "reason_code": "OWNERSHIP_VERIFIED",
+    "occurred_at": "2026-09-07T11:00:01Z"
+  },
+  {
+    "audit_id": "AUD_05_3",
+    "run_id": "RUN_9005",
+    "account_id": "ACC_1005",
+    "event_type": "output_decision",
+    "reason_code": "ALLOW_SUPPORTED_ANSWER",
+    "occurred_at": "2026-09-07T11:00:02Z"
+  },
+  {
+    "audit_id": "AUD_06_1",
+    "run_id": "RUN_9006",
+    "account_id": "ACC_1006",
+    "event_type": "scope_decision",
+    "reason_code": "ALLOW_BILLING",
+    "occurred_at": "2026-09-07T11:00:00Z"
+  },
+  {
+    "audit_id": "AUD_06_2",
+    "run_id": "RUN_9006",
+    "account_id": "ACC_1006",
+    "event_type": "tool_result",
+    "reason_code": "OWNERSHIP_VERIFIED",
+    "occurred_at": "2026-09-07T11:00:01Z"
+  },
+  {
+    "audit_id": "AUD_06_3",
+    "run_id": "RUN_9006",
+    "account_id": "ACC_1006",
+    "event_type": "output_decision",
+    "reason_code": "ALLOW_SUPPORTED_ANSWER",
+    "occurred_at": "2026-09-07T11:00:02Z"
+  },
+  {
+    "audit_id": "AUD_07_1",
+    "run_id": "RUN_9007",
+    "account_id": "ACC_1007",
+    "event_type": "scope_decision",
+    "reason_code": "ALLOW_BILLING",
+    "occurred_at": "2026-09-07T11:00:00Z"
+  },
+  {
+    "audit_id": "AUD_07_2",
+    "run_id": "RUN_9007",
+    "account_id": "ACC_1007",
+    "event_type": "tool_result",
+    "reason_code": "OWNERSHIP_VERIFIED",
+    "occurred_at": "2026-09-07T11:00:01Z"
+  },
+  {
+    "audit_id": "AUD_07_3",
+    "run_id": "RUN_9007",
+    "account_id": "ACC_1007",
+    "event_type": "output_decision",
+    "reason_code": "ALLOW_SUPPORTED_ANSWER",
+    "occurred_at": "2026-09-07T11:00:02Z"
+  },
+  {
+    "audit_id": "AUD_08_1",
+    "run_id": "RUN_9008",
+    "account_id": "ACC_1008",
+    "event_type": "scope_decision",
+    "reason_code": "ALLOW_BILLING",
+    "occurred_at": "2026-09-07T11:00:00Z"
+  },
+  {
+    "audit_id": "AUD_08_2",
+    "run_id": "RUN_9008",
+    "account_id": "ACC_1008",
+    "event_type": "tool_result",
+    "reason_code": "OWNERSHIP_VERIFIED",
+    "occurred_at": "2026-09-07T11:00:01Z"
+  },
+  {
+    "audit_id": "AUD_08_3",
+    "run_id": "RUN_9008",
+    "account_id": "ACC_1008",
+    "event_type": "output_decision",
+    "reason_code": "ALLOW_SUPPORTED_ANSWER",
+    "occurred_at": "2026-09-07T11:00:02Z"
+  },
+  {
+    "audit_id": "AUD_09_1",
+    "run_id": "RUN_9009",
+    "account_id": "ACC_1009",
+    "event_type": "scope_decision",
+    "reason_code": "ALLOW_BILLING",
+    "occurred_at": "2026-09-07T11:00:00Z"
+  },
+  {
+    "audit_id": "AUD_09_2",
+    "run_id": "RUN_9009",
+    "account_id": "ACC_1009",
+    "event_type": "tool_result",
+    "reason_code": "OWNERSHIP_VERIFIED",
+    "occurred_at": "2026-09-07T11:00:01Z"
+  },
+  {
+    "audit_id": "AUD_09_3",
+    "run_id": "RUN_9009",
+    "account_id": "ACC_1009",
+    "event_type": "output_decision",
+    "reason_code": "ALLOW_SUPPORTED_ANSWER",
+    "occurred_at": "2026-09-07T11:00:02Z"
+  },
+  {
+    "audit_id": "AUD_10_1",
+    "run_id": "RUN_9010",
+    "account_id": "ACC_1010",
+    "event_type": "scope_decision",
+    "reason_code": "ALLOW_BILLING",
+    "occurred_at": "2026-09-07T11:00:00Z"
+  },
+  {
+    "audit_id": "AUD_10_2",
+    "run_id": "RUN_9010",
+    "account_id": "ACC_1010",
+    "event_type": "tool_result",
+    "reason_code": "OWNERSHIP_VERIFIED",
+    "occurred_at": "2026-09-07T11:00:01Z"
+  },
+  {
+    "audit_id": "AUD_10_3",
+    "run_id": "RUN_9010",
+    "account_id": "ACC_1010",
+    "event_type": "output_decision",
+    "reason_code": "ALLOW_SUPPORTED_ANSWER",
+    "occurred_at": "2026-09-07T11:00:02Z"
+  }
+]
