@@ -104,19 +104,6 @@ docker-compose.yml         # Local PostgreSQL service
 Recommended additions: `README.md`, `.gitignore`, `.env.example`, a tested Python dependency manifest, `docs/screenshots/`, `docs/PUBLISHING_CHECKLIST.md`, and a license chosen by the author.
 
 
-## Screenshots
-
-### Chat interface
-![TT&T chat interface](docs/screenshots/01-overview.png)
-
-### Billing explanation
-![Billing explanation with policy sources](docs/screenshots/02-billing.png)
-
-### Support ticket creation
-![Support ticket confirmation](docs/screenshots/03-ticket.png)
-
-
-
 ## Local setup
 
 ### Prerequisites and reproducibility status
@@ -220,6 +207,32 @@ The frontend currently calls `http://127.0.0.1:8000/chat`. Configure this addres
 
 Start Docker Desktop, run `docker start ttt_postgres`, verify Ollama with `ollama list`, then start Uvicorn and `npm run dev` in separate terminals. Data loading and ingestion are not required on every restart.
 
+## Screenshots
+
+### Chat interface
+![Chat interface](docs/screenshots/01-chat-overview.png)
+
+### Billing explanation
+![Billing explanation](docs/screenshots/02-billing-explanation.png)
+
+### Policy guidance
+![Lost-phone guidance with sources](docs/screenshots/03-policy-rag.png)
+
+### Outage lookup
+![Outage lookup result](docs/screenshots/04-outage-lookup.png)
+
+### Support ticket creation
+![Support ticket confirmation](docs/screenshots/05-ticket-created.png)
+
+### Account access protection
+![Unauthorized account request blocked](docs/screenshots/06-access-blocked.png)
+
+### Retrieval evaluation
+![Saved retrieval evaluation summary](docs/screenshots/07-retrieval-evaluation.png)
+
+```markdown
+![TT&T Support AI chat interface](docs/screenshots/01-chat-overview.png)
+
 ## Evaluation
 
 The saved [retrieval report](reports/retrieval_evaluation.json) contains these results. They were read from the existing report, not rerun for this README.
@@ -292,25 +305,6 @@ Use a seeded session whose fixtures support each scenario; the exact amounts and
 
 A concise demo sequence is billing → lost phone → outage → ticket → unauthorized account. Keep evaluation and retry checks available as supporting evidence.
 
-## Screenshots
-
-Capture the running application with synthetic data and save the images under `docs/screenshots/`. Use readable text, consistent browser width, and complete responses. Include source IDs and ticket status where relevant. Avoid terminal clutter, credentials, personal browser tabs, and local personal paths.
-
-| Filename | Capture |
-|---|---|
-| `01-chat-overview.png` | Full UI, session selector, capabilities, and input |
-| `02-billing-explanation.png` | Billing question, complete answer, policy IDs |
-| `03-policy-rag.png` | Lost-phone guidance and visible sources |
-| `04-outage-lookup.png` | Outage question and fixture-backed result |
-| `05-ticket-created.png` | Explicit request, ticket ID, and status |
-| `06-access-blocked.png` | Unauthorized fixture account request and refusal |
-| `07-retrieval-evaluation.png` | Optional readable report summary with sample size |
-
-After capture, embed the overview, billing, and ticket images here and link the remaining screenshots. Example Markdown, kept as code until the actual image exists:
-
-```markdown
-![TT&T Support AI chat interface](docs/screenshots/01-chat-overview.png)
-```
 
 ## Future work
 
