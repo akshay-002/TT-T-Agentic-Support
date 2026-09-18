@@ -103,6 +103,20 @@ docker-compose.yml         # Local PostgreSQL service
 
 Recommended additions: `README.md`, `.gitignore`, `.env.example`, a tested Python dependency manifest, `docs/screenshots/`, `docs/PUBLISHING_CHECKLIST.md`, and a license chosen by the author.
 
+
+## Screenshots
+
+### Chat interface
+![TT&T chat interface](docs/screenshots/01-overview.png)
+
+### Billing explanation
+![Billing explanation with policy sources](docs/screenshots/02-billing.png)
+
+### Support ticket creation
+![Support ticket confirmation](docs/screenshots/03-ticket.png)
+
+
+
 ## Local setup
 
 ### Prerequisites and reproducibility status
