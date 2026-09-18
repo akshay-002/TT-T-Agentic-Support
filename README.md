@@ -318,8 +318,3 @@ A concise demo sequence is billing → lost phone → outage → ticket → unau
 - Evaluate streaming responses and a human escalation workflow.
 - Add additional write actions only with explicit scope, authorization, and action-specific safeguards.
 
-## Publishing and license
-
-Use the accompanying `docs/PUBLISHING_CHECKLIST.md` for repository naming, preparation, screenshots, validation, and GitHub publication. Publishing source code to GitHub does not host the running backend, database, or Ollama service.
-
-Add an author-selected `LICENSE` before advertising an open-source license. Model weights, libraries, and any third-party data retain their own terms; do not bundle model weights into this repository.
